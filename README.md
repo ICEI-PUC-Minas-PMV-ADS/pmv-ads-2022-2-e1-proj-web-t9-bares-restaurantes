@@ -6,7 +6,15 @@
 
 `1º SEMESTRE (2022)`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo geral deste projeto é desenvolver um sistema de cardápio digital e autoatendimento que facilite o dia a dia das empresas do setor de bares e restaurantes, e proporcione um melhor atendimento aos clientes.
+
+## Os objetivos específicos desse sistema são: 
+* Oferecer aos clientes um atendimento virtualizado e mais ágil;
+* Automatização de processos; 
+* Permitir à empresa gerir seu fluxo de atendimento no dia a dia, fornecendo informações em tempo real ao gerente, à cozinha e aos funcionários; 
+* Digitalização das informações dos produtos;
+* Disponibilizar um aplicativo web que possa ser acessado em qualquer dispositivo a partir de um navegador de internet. 
+
 
 ## Integrantes
 
