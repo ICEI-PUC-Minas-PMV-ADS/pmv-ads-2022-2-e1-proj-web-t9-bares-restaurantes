@@ -23,6 +23,15 @@ namespace BaresRestaurantes
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddAuthentication("CookieAuthentication")
+                 .AddCookie("CookieAuthentication", config =>
+                 {
+                     config.Cookie.Name = "UserLoginCookie";
+                     config.LoginPath = "/Login/UsuarioLogin";
+                     config.LogoutPath = "/Home/Logout";
+                     config.AccessDeniedPath = "/Login/AccessDenied";
+                 });
+
             services.AddControllersWithViews();
         }
 
@@ -44,6 +53,10 @@ namespace BaresRestaurantes
 
             app.UseRouting();
 
+            // Quem é você?  
+            app.UseAuthentication();
+
+            // Verifica Permissões  
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
