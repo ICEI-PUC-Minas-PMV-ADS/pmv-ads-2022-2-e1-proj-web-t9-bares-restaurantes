@@ -8,7 +8,8 @@
 
 O objetivo geral deste projeto é desenvolver um sistema de cardápio digital e autoatendimento que facilite o dia a dia das empresas do setor de bares e restaurantes, e proporcione um melhor atendimento aos clientes.
 
-## Os objetivos específicos desse sistema são: 
+### Os objetivos específicos desse sistema são: 
+
 * Oferecer aos clientes um atendimento virtualizado e mais ágil;
 * Automatização de processos; 
 * Permitir à empresa gerir seu fluxo de atendimento no dia a dia, fornecendo informações em tempo real ao gerente, à cozinha e aos funcionários; 
