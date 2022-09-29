@@ -1,10 +1,10 @@
-# TÍTULO DO PROJETO
+# BARES E RESTAURANTES
 
-`CURSO`
+`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA`
+`PROJETO FRONT-END`
 
-`SEMESTRE`
+`1º SEMESTRE (2022)`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
