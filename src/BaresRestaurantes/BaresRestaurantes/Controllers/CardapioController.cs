@@ -16,5 +16,15 @@ namespace BaresRestaurantes.Controllers
             var produtos = new Produto().GetProdutos();
             return View(produtos);
         }
+
+        public IActionResult Edit(int? id)
+        {
+            if (id == null)
+                return NotFound();
+
+            var produtos = new Produto().GetProdutos();
+
+            return View(produtos.FirstOrDefault(prod => prod.Id == id));
+        }
     }
 }

@@ -10,7 +10,15 @@
 <p>
     <a asp-action="Create">Create New</a>
 </p>
-<table class="table">
+
+
+    <select style="width: 300px" name="categoria" id="dropCategoria" onclick="filtroCategoria()" class="form-control">
+        <option value="pratosAlacarte">-- Selecione uma categoria --</option>
+        <option value="pratosAlacarte">Pratos Alacarte</option>
+        <option value="drinks">Drinks</option>
+    </select>
+
+<table class="table" id="tbProdutos">
     <thead>
         <tr>
             <th>
@@ -44,9 +52,9 @@
                 @Html.DisplayFor(modelItem => item.Categoria)
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+                @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
             </td>
         </tr>
 }
