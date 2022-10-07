@@ -1,5 +1,7 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.IO;
 
 namespace BaresRestaurantes.Models
 {
@@ -15,11 +17,19 @@ namespace BaresRestaurantes.Models
         public List<Produto> GetProdutos()
         {
             var users = new List<Produto>();
-            users.Add(new Produto { Id = 1, Nome = "Filé a Parmegiana",Descricao= "Filé mignon à milanesa, gratinado com molho de tomate e queijo.", Categoria = "Pratos Alacarte", Preco = 99.90f });
-            users.Add(new Produto { Id = 2, Nome = "Costela de Porco", Descricao="Costela de porco no barbecue com fritas.", Categoria="Pratos Alacarte", Preco=79.90f});
-            users.Add(new Produto { Id = 3, Nome = "Moscow Mule", Descricao= "Vodka, espuma de gengbre,suco de limão, ginger Ale.", Categoria="Drinks", Preco = 17f });
-            users.Add(new Produto { Id = 4, Nome = "Soda Italiana", Descricao= "Maçã verde, cranberry, limão, tangerina e morango.", Categoria="Drinks", Preco = 8f });
-
+            var fullPath = Environment.CurrentDirectory + "\\Auxiliar\\Produtos.txt";
+            var lines = File.ReadLines(fullPath);
+            foreach (var item in lines)
+            {
+                var dados = item.Split('|');
+                var id = Convert.ToInt32(dados[0]);
+                var nome = dados[1];
+                var desc = dados[2];
+                var cat = dados[3];
+                var preco = float.Parse(dados[4]);
+                users.Add(new Produto { Id = id, Nome = nome, Descricao = desc, Categoria = cat, Preco = preco });
+            }
+            
             return users;
         }
     }
