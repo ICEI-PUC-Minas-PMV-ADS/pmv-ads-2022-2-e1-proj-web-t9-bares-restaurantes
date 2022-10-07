@@ -16,15 +16,13 @@ O objetivo geral deste projeto é desenvolver um sistema de cardápio digital e 
 * Digitalização das informações dos produtos;
 * Disponibilizar um aplicativo web que possa ser acessado em qualquer dispositivo a partir de um navegador de internet. 
 
-
 ## Integrantes
 
 * Elísia Resende Valim Ferrari
 * Geison Amorim Marçal
 * Geraldo Homero do Couto Neto
 * Mariana Paez Matheos Monteiro Chaves
-* Samuel Ferreira de Olivei
-
+* Samuel Ferreira de Oliveira
 
 ## Orientador
 
