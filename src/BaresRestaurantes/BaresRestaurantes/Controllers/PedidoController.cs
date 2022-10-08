@@ -34,8 +34,9 @@ namespace BaresRestaurantes.Controllers
 
             if (ModelState.IsValid)
             {
-                var pedidos = new Pedido().GetPedidos();
-                var item = pedidos.FirstOrDefault(prod => prod.Id == id);
+                var produto = new Produto().GetProdutos().FirstOrDefault(it => it.Id == pedido.Produto.Id);
+                pedido.Produto = produto;
+                pedido.SalvarPedido(pedido);
                 return RedirectToAction(nameof(Index));
             }
 

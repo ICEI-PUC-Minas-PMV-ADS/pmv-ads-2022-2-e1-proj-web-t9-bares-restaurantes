@@ -26,5 +26,20 @@ namespace BaresRestaurantes.Controllers
 
             return View(produtos.FirstOrDefault(prod => prod.Id == id));
         }
+
+        [HttpPost]
+        public async Task<IActionResult> Edit(int id, [Bind] Produto produto, double preco)
+        {
+            if (id == null)
+                return NotFound();
+
+            if (ModelState.IsValid)
+            {
+                produto.SalvarProduto(produto);
+                return RedirectToAction(nameof(Index));
+            }
+
+            return View();
+        }
     }
 }

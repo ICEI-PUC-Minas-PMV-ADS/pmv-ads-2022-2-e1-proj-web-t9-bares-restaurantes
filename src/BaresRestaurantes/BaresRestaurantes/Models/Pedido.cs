@@ -18,7 +18,7 @@ namespace BaresRestaurantes.Models
         {
             var pedidos = new List<Pedido>();
             var prod = new Produto();
-            var fullPath = Environment.CurrentDirectory + "\\Auxiliar\\Pedidos.txt";
+            var fullPath = Directory.GetCurrentDirectory() + "\\Auxiliar\\Pedidos.txt";
             var lines = File.ReadLines(fullPath);
             foreach (var item in lines)
             {
@@ -35,6 +35,23 @@ namespace BaresRestaurantes.Models
             }
 
             return pedidos;
+        }
+
+        public void SalvarPedido(Pedido pedido)
+        {
+            //1|1|2022, 10, 7, 19, 0, 0|30|EmAndamento
+            var fullPath = Directory.GetCurrentDirectory() + "\\Auxiliar\\Pedidos.txt";
+            var pedidos = pedido.GetPedidos();
+
+            using StreamWriter file = new(fullPath);
+
+            foreach (var item in pedidos)
+            {
+                if (item.Id == pedido.Id)
+                    file.WriteLine($"{pedido.Id}|{pedido.Produto.Id}|{pedido.DataInicio.Year},{pedido.DataInicio.Month},{pedido.DataInicio.Day},{pedido.DataInicio.Hour},{pedido.DataInicio.Minute},{pedido.DataInicio.Second}|{pedido.TempoDePreparo}|{pedido.Status}");
+                else
+                    file.WriteLine($"{item.Id}|{item.Produto.Id}|{item.DataInicio.Year},{item.DataInicio.Month},{item.DataInicio.Day},{item.DataInicio.Hour},{item.DataInicio.Minute},{item.DataInicio.Second}|{item.TempoDePreparo}|{item.Status}");
+            }
         }
 
         public enum StatusPedido
