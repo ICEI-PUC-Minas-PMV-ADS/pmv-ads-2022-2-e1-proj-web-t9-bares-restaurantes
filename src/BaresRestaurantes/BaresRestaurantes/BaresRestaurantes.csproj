@@ -11,6 +11,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="Auxiliar\Mesas.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="Auxiliar\Pedidos.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

@@ -8,12 +8,12 @@ using System.Threading.Tasks;
 namespace BaresRestaurantes.Controllers
 {
     [Authorize]
-    public class PedidoController : Controller
+    public class MesaController : Controller
     {
         public IActionResult Index()
         {
-            var pedidos = new Pedido().GetPedidos();
-            return View(pedidos);
+            var mesas = new Mesa().GetMesas();
+            return View(mesas);
         }
 
         public IActionResult Edit(int? id)
@@ -21,20 +21,20 @@ namespace BaresRestaurantes.Controllers
             if (id == null)
                 return NotFound();
 
-            var pedidos = new Pedido().GetPedidos();
+            var mesas = new Mesa().GetMesas();
 
-            return View(pedidos.FirstOrDefault(prod => prod.Id == id));
+            return View(mesas.FirstOrDefault(prod => prod.Id == id));
         }
 
         [HttpPost]
-        public async Task<IActionResult> Edit(int id, [Bind] Pedido pedido)
+        public async Task<IActionResult> Edit(int id, [Bind] Mesa mesa)
         {
             if (id == null)
                 return NotFound();
 
             if (ModelState.IsValid)
             {
-                pedido.SalvarPedido(pedido);
+                //pedido.SalvarPedido(pedido);
                 return RedirectToAction(nameof(Index));
             }
 
