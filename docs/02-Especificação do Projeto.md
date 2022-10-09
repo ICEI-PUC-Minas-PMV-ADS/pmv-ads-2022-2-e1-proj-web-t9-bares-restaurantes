@@ -18,7 +18,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Jubileu (empresário/gerente)|
+|Jubileu (empresário/gerente)|Cadastrar, editar e remover opções de produtos ofertados pelo estabelecimento.|atualizar os produtos oferecidos no cardápio.|
 |Jubileu (gerente)|
 |Jubileu (gerente)|
 |Jubileu (gerente)|
