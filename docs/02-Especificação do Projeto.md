@@ -71,8 +71,6 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 |RNF-11|O sistema deve permitir recuperar senha através do E-mail.|Alta|
 |RNF-12|O sistema deve identificar o número da mesa ao ler QR code.|Alta|
 
-
-
 ### 2.3.3 -Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
@@ -84,12 +82,3 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |RE-03|O Sistema deverá ter comunicação com apenas um gateway de pagamento.|
 |RE-04|O sistema deverá ter apenas um banco de dados.|
 |RE-05|O sistema não deverá repassar informações para plataformas externas.|
-
-
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
