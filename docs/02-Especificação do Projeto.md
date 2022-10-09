@@ -19,20 +19,20 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Jubileu (empresário/gerente)|Cadastrar, editar e remover opções de produtos ofertados pelo estabelecimento.|atualizar os produtos oferecidos no cardápio.|
-|Jubileu (gerente)|
-|Jubileu (gerente)|
-|Jubileu (gerente)|
-|Creonilde (cliente)|
-|Creonilde (cliente)|
-|Creonilde (cliente)|
-|Creonilde (cliente)|
-|Huliete (chef de cozinha)|
-|Huliete (chef de cozinha)|
-|Geriscreidon (garçom)|
-|Geriscreidon (garçom)|
+|Jubileu (gerente)|Cadastrar, editar e remover colaboradores.|realizar cadastro de colaboradores  em suas respectivas repartições.|
+|Jubileu (gerente)|Acompanhar o status dos pedidos em tempo real.|auxiliar na logística de solicitação, preparo e envio dos pedidos à mesa.|
+|Jubileu (gerente)|Visualizar as informações de quantidade, descrição e valor de cada pedido em uma mesa, além do valor total consumido.|monitorar o consumo dos clientes.|
+|Creonilde (cliente)|Verificar opções do cardápio por categoria.|facilitar na escolha dos pedidos.|
+|Creonilde (cliente)|Solicitar um item do cardápio, podendo escolher características e detalhes do pedido.|para poder utilizar o autoatendimento.|
+|Creonilde (cliente)|Fechar e visualizar os detalhes da conta|agilizar o tempo de finalização e pagamento do atendimento recebido.|
+|Creonilde (cliente)|Acompanhar o status dos pedidos em tempo real.|para ter conhecimento do andamento do seu pedido.|
+|Huliete (chef de cozinha)|Visualizar os pedidos na ordem cronológica que foram feitos.|auxiliar na logística de preparo dos pedidos à mesa.|
+|Huliete (chef de cozinha)|Alterar situação do pedido (recebido, fazendo, finalizado)|dar o feedback do status do pedido ao garçom e cliente.|
+|Geriscreidon (garçom)|Visualizar situação do pedido (recebido, em andamento, finalizado)|auxiliar na logística de envio dos pedidos à mesa.|
+|Geriscreidon (garçom)|verificar para qual mesa deve ser enviado cada pedido|enviar o pedido para a mesa correta.|
 
-Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
