@@ -39,7 +39,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades de interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos serão apresentados a seguir.
 
 
-### Requisitos Funcionais
+### 2.3.1 Requisitos Funcionais
 
 |ID       | Descrição do Requisito  | Prioridade |
 |----------|-----------------------------------------|----|
@@ -58,12 +58,23 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 
 
 
-### Requisitos não Funcionais
+### 2.3.2 - Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-01 |O sistema deve fornecer descrição de cada produto selecionado pelo usuário. |Baixa|
+|RNF-02| Os produtos devem ser separados por categorias. |Média|
+|RNF-03| A confirmação do pedido feito pelo cliente deve acontecer em menos de 5 segundos. |Baixa|
+|RNF-04| O pedido feito pelo cliente deve chegar até a cozinha em menos de 10 segundos. |Baixa| 
+|RNF-05|A confirmação do tempo de preparo do pedido deve chegar ao gerente em até 5 segundos.|Média|
+|RNF-07|O sistema deve gerar histórico de itens selecionados pelo usuário.|Alta|
+|RNF-08|O sistema deve validar a forma  de pagamento.|Média|
+|RNF-09|O sistema deverá atualizar status do pedido (assíncrona com a cozinha)|Alta|
+|RNF-10|O sistema deverá mostrar elementos oculto ao passar cursor|Média|
+|RNF-11|O sistema deve permitir recuperar senha através do E-mail.|Alta|
+|RNF-12|O sistema deve identificar o número da mesa ao ler QR code.|Alta|
+
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
