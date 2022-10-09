@@ -1,7 +1,9 @@
 ### 1 - Documentação de Contexto
 
 Com o avanço da tecnologia cada vez mais acessível  e recorrente no cenário mundial, onde estudos publicados pela FGV apontam que existe, apenas no Brasil, mais de um smartphone por habitante (MEIRELLES, 2022). As buscas por praticidades e facilidades através da tecnologia estão cada vez mais recorrentes no nosso cotidiano, uma vez que em um passado não muito distante as tarefas e ações  que antes poderiam ser lentas e burocráticas, hoje com os avanços tecnológicos podem ser executadas muitas das vezes com apenas alguns cliques (MEIRELLES, 2022).
+
 Graças aos  avanços tecnológicos, muitos dos problemas que existiam no passado recente, como uso de papéis para impressão de notícias, informações, dados e dentre outras coisas, foram renovados e trocados por um sistema tecnológico prático. Onde antes informações que levariam um processo lento para serem repassadas até a conclusão de suas impressões, hoje podem ser armazenadas e aliadas com a  praticidade da tecnologia, beneficiando tanto quem irá oferecer essa praticidade tecnológica, como também seus usuários em questão.
+
 A tecnologia expandiu o pensamento nas mais diversas áreas de negócios. No setor de prestação de serviços, como o  ramo de bares e restaurantes, os sistemas computacionais estão sendo cada vez mais implantados. Um exemplo é a utilização de cardápio digital e autoatendimento, fornecidos por aplicações web, que proporcionam um melhor atendimento, com mais  agilidade, além de facilitarem a gestão do negócio no dia a dia. 
 
 ### 1.1 - Problema  
