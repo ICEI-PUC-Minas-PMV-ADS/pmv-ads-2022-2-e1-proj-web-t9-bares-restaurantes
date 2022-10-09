@@ -1,26 +1,16 @@
-# Especificações do Projeto
+# 2 - Especificação do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
+Levantamos a necessidade da criação de um sistema que atendesse às demandas de bares e restaurantes. Os membros da equipe passaram alguns dias em estabelecimentos a fim de entender, através de observações e entrevistas, quais eram os problemas enfrentados no dia a dia de um cliente, dono de um  grande restaurante em Belo Horizonte. 
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+Passando por todos os ambientes de trabalho entendemos as necessidades de cada usuário, como por exemplo: os clientes, gerentes, chefs de cozinha e garçons, cada um com sua problemática, o que nos possibilitou o levantamento das personas e consolidação das histórias dos usuários.
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
-## Personas
+# 2.1 - Personas
+Jubileu (Empresario/Gerente) - 54 anos - divorciado - 9 filhos. Empresário no ramo de gastronomia há mais de 27 anos.
+Creonilde (Cliente) - 22 anos - trabalha com revenda de cosméticos e é frequentadora assídua do estabelecimento há pelo menos 3 anos.
+Huliete (Chef de Cozinha) - 51 anos - divorciada (ex-esposa do Jubileu) - 6 filhos. Empresária e sócia no ramo de gastronomia há mais de 24 anos. 
+Geriscreidon (Garçom) - 43 anos - 15 anos trabalhando no estabelecimento. Se orgulha de nunca ter recibo reclamação dos clientes pelos seus serviços e que as gorjetas ajudam ele a pagar as contas em casa.
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 
