@@ -34,20 +34,28 @@ etiquetas:
 |-----------|-------------|-----------------|
 | Repositório de código-fonte|Github|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes|
 | Documentos do projeto  |Google Docs|https://docs.google.com/document/d/1PRYTSqOD7-Au4QUQ3mbUBDotM3WlIx1ChtSrPlewQeM|
-| Projeto de interface|MarvelApp|https://marvelapp.com/prototype/71eh8dc|
+| Projeto de interface e wireframes|MarvelApp|https://marvelapp.com/prototype/71eh8dc|
 |Gerenciamento do Projeto|Trello e Teams|https://trello.com/invite/b/DaT7e2zl/9369b7d3fe81adf81157bd6659f45341/projeto-bares-e-restaurantes|
 
 
-## Gerenciamento de Projeto
+## 3.2 Gerenciamento de Projeto
 
-### Divisão de Papéis
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. 
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe está organizada da seguinte maneira: 
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+- Scrum Master: Geison Amorim Marçal
+- Product Owner: Elísia Resende Valim Ferrari
+- Equipe de Desenvolvimento
+ - Elísia Resende Valim Ferrari
+ - Geison Amorim Marçal
+ - Geraldo Homero do Couto Neto
+ - Pedro Victor de Souza Fidelis
+ - Mariana Paez Matheos Monteiro Chaves
+ - Samuel Ferreira de Oliveira
+- Equipe de Design
+ - Geison Amorim Marçal
+
 
 ### Processo
 
