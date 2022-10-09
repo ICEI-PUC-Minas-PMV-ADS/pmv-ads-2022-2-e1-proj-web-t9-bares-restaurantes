@@ -1,15 +1,16 @@
 
-# Metodologia
+# 3 - Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+A metodologia define as ferramentas utilizadas pela equipe. Inicialmente criamos projetos utilizando as seguintes ferramentas: Trello e Teams para gerenciamento do projeto; Github para servir de repositório do código fonte; Google Docs para edição do relatório de forma paralela e integrada com a equipe; MarvelApp para desenvolvimento do projeto de interfaces.
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Posteriormente, identificamos as necessidades das personas e compilamos as histórias de usuários, através da observação e entrevistas no local.
 
-## Controle de Versão
+Cada usuário terá suas telas com as funcionalidades que lhes foram atribuídas, portanto, desenvolvemos o projeto das telas como, por exemplo: de login; cadastro/edição dos ítens do cardápio; acompanhamento dos status dos pedidos; visualização do consumo por mesa, dentre outras.
 
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+As entregas serão separadas em sprint de 1 semana, em relação a cada requisitos funcional explicado na documentação, toda a estrutura estará no servidor da AWS (Amazon Web Services) em questão de segurança dos dados.
+
+A cada etapa de desenvolvimento serão realizados os testes funcionais do sistema, com a validação do cliente, conforme a documentação do escopo do projeto.
+
 
 O projeto segue a seguinte convenção para o nome de branches:
 
@@ -26,14 +27,16 @@ etiquetas:
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
+## 3.1 - Relações de ambientes de trabalho
 
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
+
+|Ambiente   |Plataforma   | Link de acesso  |  
+|-----------|-------------|-----------------|
+| Repositório de código-fonte|Github|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes|
+| Documentos do projeto  |Google Docs|https://docs.google.com/document/d/1PRYTSqOD7-Au4QUQ3mbUBDotM3WlIx1ChtSrPlewQeM|
+| Projeto de interface|MarvelApp|https://marvelapp.com/prototype/71eh8dc|
+|Gerenciamento do Projeto|Trello e Teams|https://trello.com/invite/b/DaT7e2zl/9369b7d3fe81adf81157bd6659f45341/projeto-bares-e-restaurantes|
+
 
 ## Gerenciamento de Projeto
 
