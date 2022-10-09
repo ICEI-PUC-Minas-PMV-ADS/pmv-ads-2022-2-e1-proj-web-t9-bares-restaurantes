@@ -34,25 +34,28 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+# 2.3 - Requisitos do Projeto
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades de interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos serão apresentados a seguir.
 
-## Requisitos
-
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-01| O sistema deve permitir que o usuário realize o cadastro da mesa.| Média|
+|RF-02| O site deve apresentar um menu com os pratos e bebidas disponíveis no dia.|Alta| 
+|RF-03| O cliente deve conseguir escolher itens no cardápio por quantidade e inserir no pedido da mesa (comanda virtual).|Alta|
+|RF-04| O sistema deve permitir o encerramento do pedido.|Alta|
+|RF-05| O sistema deve permitir omitir um produto caso indisponível.|Baixa|
+|RF-06| O sistema deve permitir cadastrar, alterar e excluir  produtos.|Alta|
+|RF-07| O sistema deve permitir selecionar uma mesa e conferir histórico de consumo.|Baixa|
+|RF-08|O sistema deve permitir finalizar a compra.|Alta|
+|RF-09| O sistema deve permitir realizar pagamento.|Baixa| 
+|RF-10| O sistema deve permitir realizar cadastro  de colaborador e  permitir categorizar os seus respectivos sistemas.|Média|
+
+
+
 
 
 ### Requisitos não Funcionais
