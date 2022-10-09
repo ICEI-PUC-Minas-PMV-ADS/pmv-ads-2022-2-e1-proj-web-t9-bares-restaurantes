@@ -47,14 +47,14 @@ A equipe está organizada da seguinte maneira:
 - Scrum Master: Geison Amorim Marçal
 - Product Owner: Elísia Resende Valim Ferrari
 - Equipe de Desenvolvimento
- - Elísia Resende Valim Ferrari
- - Geison Amorim Marçal
- - Geraldo Homero do Couto Neto
- - Pedro Victor de Souza Fidelis
- - Mariana Paez Matheos Monteiro Chaves
- - Samuel Ferreira de Oliveira
+  - Elísia Resende Valim Ferrari
+  - Geison Amorim Marçal
+  - Geraldo Homero do Couto Neto
+  - Pedro Victor de Souza Fidelis
+  - Mariana Paez Matheos Monteiro Chaves
+  - Samuel Ferreira de Oliveira
 - Equipe de Design
- - Geison Amorim Marçal
+  - Geison Amorim Marçal
 
 
 ### Processo
