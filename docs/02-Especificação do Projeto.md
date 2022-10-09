@@ -5,14 +5,14 @@ Levantamos a necessidade da criação de um sistema que atendesse às demandas d
 Passando por todos os ambientes de trabalho entendemos as necessidades de cada usuário, como por exemplo: os clientes, gerentes, chefs de cozinha e garçons, cada um com sua problemática, o que nos possibilitou o levantamento das personas e consolidação das histórias dos usuários.
 
 
-# 2.1 - Personas
+## 2.1 - Personas
 - Jubileu (Empresario/Gerente) - 54 anos - divorciado - 9 filhos. Empresário no ramo de gastronomia há mais de 27 anos.
 - Creonilde (Cliente) - 22 anos - trabalha com revenda de cosméticos e é frequentadora assídua do estabelecimento há pelo menos 3 anos.
 - Huliete (Chef de Cozinha) - 51 anos - divorciada (ex-esposa do Jubileu) - 6 filhos. Empresária e sócia no ramo de gastronomia há mais de 24 anos. 
 - Geriscreidon (Garçom) - 43 anos - 15 anos trabalhando no estabelecimento. Se orgulha de nunca ter recibo reclamação dos clientes pelos seus serviços e que as gorjetas ajudam ele a pagar as contas em casa.
 
 
-## Histórias de Usuários
+## 2.2 - Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
@@ -34,7 +34,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 
 
-# 2.3 - Requisitos do Projeto
+## 2.3 - Requisitos do Projeto
 
 O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades de interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos serão apresentados a seguir.
 
@@ -55,9 +55,6 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 |RF-10| O sistema deve permitir realizar cadastro  de colaborador e  permitir categorizar os seus respectivos sistemas.|Média|
 
 
-
-
-
 ### 2.3.2 - Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
@@ -76,29 +73,19 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 
 
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
-## Restrições
+### 2.3.3 -Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|RE-01|O sistema não deverá ficar fora do ar por mais de 2 horas.|
+|RE-02|O sistema não deverá ter linguagens diferentes na parte da APIs.|
+|RE-03|O Sistema deverá ter comunicação com apenas um gateway de pagamento.|
+|RE-04|O sistema deverá ter apenas um banco de dados.|
+|RE-05|O sistema não deverá repassar informações para plataformas externas.|
+
+
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
