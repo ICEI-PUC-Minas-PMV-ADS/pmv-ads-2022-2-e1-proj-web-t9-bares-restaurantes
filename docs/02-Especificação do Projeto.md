@@ -6,10 +6,10 @@ Passando por todos os ambientes de trabalho entendemos as necessidades de cada u
 
 
 # 2.1 - Personas
-Jubileu (Empresario/Gerente) - 54 anos - divorciado - 9 filhos. Empresário no ramo de gastronomia há mais de 27 anos.
-Creonilde (Cliente) - 22 anos - trabalha com revenda de cosméticos e é frequentadora assídua do estabelecimento há pelo menos 3 anos.
-Huliete (Chef de Cozinha) - 51 anos - divorciada (ex-esposa do Jubileu) - 6 filhos. Empresária e sócia no ramo de gastronomia há mais de 24 anos. 
-Geriscreidon (Garçom) - 43 anos - 15 anos trabalhando no estabelecimento. Se orgulha de nunca ter recibo reclamação dos clientes pelos seus serviços e que as gorjetas ajudam ele a pagar as contas em casa.
+- Jubileu (Empresario/Gerente) - 54 anos - divorciado - 9 filhos. Empresário no ramo de gastronomia há mais de 27 anos.
+- Creonilde (Cliente) - 22 anos - trabalha com revenda de cosméticos e é frequentadora assídua do estabelecimento há pelo menos 3 anos.
+- Huliete (Chef de Cozinha) - 51 anos - divorciada (ex-esposa do Jubileu) - 6 filhos. Empresária e sócia no ramo de gastronomia há mais de 24 anos. 
+- Geriscreidon (Garçom) - 43 anos - 15 anos trabalhando no estabelecimento. Se orgulha de nunca ter recibo reclamação dos clientes pelos seus serviços e que as gorjetas ajudam ele a pagar as contas em casa.
 
 
 ## Histórias de Usuários
