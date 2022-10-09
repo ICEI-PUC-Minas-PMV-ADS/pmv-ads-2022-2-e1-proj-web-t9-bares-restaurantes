@@ -1,46 +1,31 @@
-# Introdução
+### 1 - Documentação de Contexto
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Com o avanço da tecnologia cada vez mais acessível  e recorrente no cenário mundial, onde estudos publicados pela FGV apontam que existe, apenas no Brasil, mais de um smartphone por habitante (MEIRELLES, 2022). As buscas por praticidades e facilidades através da tecnologia estão cada vez mais recorrentes no nosso cotidiano, uma vez que em um passado não muito distante as tarefas e ações  que antes poderiam ser lentas e burocráticas, hoje com os avanços tecnológicos podem ser executadas muitas das vezes com apenas alguns cliques (MEIRELLES, 2022).
+Graças aos  avanços tecnológicos, muitos dos problemas que existiam no passado recente, como uso de papéis para impressão de notícias, informações, dados e dentre outras coisas, foram renovados e trocados por um sistema tecnológico prático. Onde antes informações que levariam um processo lento para serem repassadas até a conclusão de suas impressões, hoje podem ser armazenadas e aliadas com a  praticidade da tecnologia, beneficiando tanto quem irá oferecer essa praticidade tecnológica, como também seus usuários em questão.
+A tecnologia expandiu o pensamento nas mais diversas áreas de negócios. No setor de prestação de serviços, como o  ramo de bares e restaurantes, os sistemas computacionais estão sendo cada vez mais implantados. Um exemplo é a utilização de cardápio digital e autoatendimento, fornecidos por aplicações web, que proporcionam um melhor atendimento, com mais  agilidade, além de facilitarem a gestão do negócio no dia a dia. 
 
-## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+### 1.1 - Problema  
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Como a utilização de um sistema de cardápio digital e autoatendimento podem facilitar o dia a dia das empresas do setor de bares e restaurantes, e proporcionar um melhor atendimento aos clientes?
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+### 1.2 - Objetivos ###
+	
+O objetivo geral deste projeto é desenvolver um sistema de cardápio digital e autoatendimento que facilite o dia a dia das empresas do setor de bares e restaurantes, e proporcione um melhor atendimento aos clientes.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Os objetivos específicos desse sistema são: 
+- Oferecer aos clientes um atendimento virtualizado e mais ágil;
+- Automatização de processos; 
+- Permitir à empresa gerir seu fluxo de atendimento no dia a dia, fornecendo informações em tempo real ao gerente, à cozinha e aos funcionários; 
+- Digitalização das informações dos produtos;
+- Disponibilizar um aplicativo web que possa ser acessado em qualquer dispositivo a partir de um navegador de internet. 
 
-## Objetivos
+### 1.3 - Justificativa ###
+Segundo a Associação Brasileira de Bares e Restaurantes (Abrasel) (apud CAZADO, 2019, p. 9) no Brasil, em 2015, existiam mais de um milhão de estabelecimentos gastronômicos, com mais de 6 milhões de pessoas empregadas. Além disso, “os brasileiros realizam 70 milhões de refeições fora de casa por ano, sendo a maioria destas refeições realizadas em estabelecimentos comerciais como restaurantes e outros estabelecimentos gastronômicos”. Conforme a Associação Brasileira da Indústria de Alimentos, o serviço de alimentos, incluindo bares e restaurantes,  cresceu 11% ao ano durante os anos de 2009 e 2019. 
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Diante do exposto, conclui-se que o setor de bares e restaurantes está em constante crescimento, tornando a tecnologia mais requerida a fim de auxiliar as empresas na tomada de decisão, na gestão do negócio, potencialização das margens de lucro e uma maior automatização de alguns processos, proporcionando ainda um atendimento rápido e personalizado aos clientes, tornando seu serviço diferencial em relação aos concorrentes.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Portanto, acredita-se que  um sistema de cardápio digital e autoatendimento proporciona benefícios como a automatização dos processos; digitalização das informações dos produtos, o que acelera a atualização dos dados do menu; informação em tempo real dos pedidos; e agilidade no atendimento.
 
-## Justificativa
+### 1.4 - Público alvo   
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
-## Público-Alvo
-
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+O público alvo deste projeto são as empresas dos setores gastronômicos, em especial o de bares e restaurantes, que queiram inovar seu atendimento através do cardápio digital ou autoatendimento. 
