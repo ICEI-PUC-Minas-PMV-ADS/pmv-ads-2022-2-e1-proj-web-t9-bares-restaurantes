@@ -41,8 +41,8 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
+|ID       | Descrição do Requisito  | Prioridade |
+|----------|-----------------------------------------|----|
 |RF-01| O sistema deve permitir que o usuário realize o cadastro da mesa.| Média|
 |RF-02| O site deve apresentar um menu com os pratos e bebidas disponíveis no dia.|Alta| 
 |RF-03| O cliente deve conseguir escolher itens no cardápio por quantidade e inserir no pedido da mesa (comanda virtual).|Alta|
