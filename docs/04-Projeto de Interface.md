@@ -1,35 +1,33 @@
+# 4 - Projeto de interface
 
-# Projeto de Interface
+Dentre as preocupações para a montagem da interface do sistema, estamos estabelecendo foco em questões como acessibilidade, usabilidade e simplicidade. Desta forma, o projeto tem uma identidade visual padronizada em todas as telas projetadas para funcionamento em desktops, notebooks, dispositivos móveis e painéis televisores.
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+## 4.1 - Fluxo do usuário
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
+O diagrama apresentado na Figura 2 mostra o fluxo de interação do usuário (gerente) pelas telas do sistema. A interação com o sistema se dá a partir do menu principal e secundário.  Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o ambiente MarvelApp do projeto disponível no capítulo 3.1 deste documento. 
 
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+![image](https://user-images.githubusercontent.com/70844369/194785292-057dd191-3597-4dc2-a917-fc7738a9cf7a.png)
+Caso completo de fluxo de usuário (Cliente)
 
-## User Flow
+### 4.1.1 - Fluxo de login
+![image](https://user-images.githubusercontent.com/70844369/194785331-dedd4a91-16ca-4ca3-9da7-2cb0a172e36a.png)
 
-![Exemplo de UserFlow](img/userflow.jpg)
+### 4.1.2 - Fluxo usuário (gerente)
+![image](https://user-images.githubusercontent.com/70844369/194785353-493b5166-c5bd-4d91-9b25-0421d0ba3b1f.png)
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+### 4.1.3 - Fluxo usuário (chef de cozinha)
+![image](https://user-images.githubusercontent.com/70844369/194785395-00c22de0-26fe-47da-a1aa-959968ce7535.png)
 
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
+### 4.1.4 - Fluxo usuário (garçom)
+![image](https://user-images.githubusercontent.com/70844369/194785406-563187e9-f7af-4d2b-9a25-53c390c7bffc.png)
 
+### 4.1.5 - Fluxo usuário (cliente)
+![image](https://user-images.githubusercontent.com/70844369/194785436-c906306d-5b82-4819-886a-76487a3e399d.png)
 
-## Wireframes
+## 4.2 - Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+Conforme o fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens seguintes. As telas do sistema apresentam uma estrutura comum apresentada na Figura 3. Nesta estrutura, existem 3 grandes blocos, descritos a seguir. São eles:
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+- Menu Lateral - local onde são dispostos elementos fixos de identidade (logo) e navegação principal do site (menu da aplicação);
+- Conteúdo de sessão - apresentando o conteúdo de cada sessão;
+- Menu secundário - apresenta os elementos de navegação secundária, geralmente associados aos elementos do bloco de conteúdo, como configurações de sessão e paginação e busca por conteúdo. 
