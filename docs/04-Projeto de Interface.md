@@ -7,6 +7,7 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 O diagrama apresentado na Figura 2 mostra o fluxo de interação do usuário (gerente) pelas telas do sistema. A interação com o sistema se dá a partir do menu principal e secundário.  Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o ambiente MarvelApp do projeto disponível no capítulo 3.1 deste documento. 
 
 ![image](https://user-images.githubusercontent.com/70844369/194785292-057dd191-3597-4dc2-a917-fc7738a9cf7a.png)
+
 Caso completo de fluxo de usuário (Cliente)
 
 ### 4.1.1 - Fluxo de login
