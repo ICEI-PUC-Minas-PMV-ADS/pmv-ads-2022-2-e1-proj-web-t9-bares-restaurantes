@@ -33,4 +33,32 @@ Conforme o fluxo de telas do projeto, apresentado no item anterior, as telas do 
 - Conteúdo de sessão - apresentando o conteúdo de cada sessão;
 - Menu secundário - apresenta os elementos de navegação secundária, geralmente associados aos elementos do bloco de conteúdo, como configurações de sessão e paginação e busca por conteúdo. 
 
+# 4.2.1 - Tela de login
+![image](https://user-images.githubusercontent.com/70844369/194785964-43d40b3e-7062-4885-9a7b-f936523c13fe.png)
+
+# 4.2.2 - Histórico de consumo (gerente)
+![image](https://user-images.githubusercontent.com/70844369/194785979-9dbb4137-c7f2-43de-8984-c48bf6b158e8.png)
+
+# 4.2.3 - Novos produtos (gerente)
+![image](https://user-images.githubusercontent.com/70844369/194785995-8c320a71-d8e0-48bf-a928-1fa88a9b1a33.png)
+
+# 4.2.4 - Cadastro de colaboradores (gerente)
+![image](https://user-images.githubusercontent.com/70844369/194786010-85734e62-8272-4fda-ab91-6af8b0564ae4.png)
+
+# 4.2.5 - Status dos pedidos (chef de cozinha)
+![image](https://user-images.githubusercontent.com/70844369/194786014-36e35081-eb92-4124-a832-c3b67be7ead8.png)
+
+# 4.2.6 - Status dos pedidos (garçom)
+![image](https://user-images.githubusercontent.com/70844369/194786045-a17132c6-6ebe-4855-8e7a-d95f90a437ca.png)
+
+# 4.2.7 - Cardápio (cliente)
+![image](https://user-images.githubusercontent.com/70844369/194786060-b2cf8ec5-65fc-4af9-b94d-86031bdc1eb7.png)
+
+# 4.2.8 - Status do pedido (cliente)
+![image](https://user-images.githubusercontent.com/70844369/194786094-0872b902-bede-43e2-9985-51d5d0cce8c6.png)
+
+# 4.2.9 - Comanda (cliente)
+![image](https://user-images.githubusercontent.com/70844369/194786112-e1fb598c-3087-4dca-8b7d-efe626318d40.png)
+
+
 
