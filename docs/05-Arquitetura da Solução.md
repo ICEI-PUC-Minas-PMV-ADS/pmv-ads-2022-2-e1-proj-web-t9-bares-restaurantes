@@ -29,7 +29,7 @@ Corresponde a plataforma web para bares e restaurantes que fornece todas as func
 
 - Banco de dados
 
-O banco de dados utilizado será o Sql Server.
+O banco de dados utilizado será o SQL Server.
 
 
 ## 5.2 - Hospedagem
