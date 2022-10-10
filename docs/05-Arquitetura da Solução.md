@@ -21,7 +21,7 @@ Conjunto de arquivos Razor Pages, HTML, CSS e JavaScript criados com design resp
 
 - Aplicação Web
 
-Corresponde a plataforma web para bares e restaurantes que fornece todas as funcionalidades descritas neste trabalho. Será desenvolvida com ASP.NET Core MVC utlizando C#. 
+Corresponde a plataforma web para bares e restaurantes que fornece todas as funcionalidades descritas neste trabalho. Será desenvolvida com ASP.NET Core MVC utilizando C#. 
 
 - API Rest
 
