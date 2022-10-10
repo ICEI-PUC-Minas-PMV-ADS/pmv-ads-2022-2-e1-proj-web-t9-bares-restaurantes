@@ -32,3 +32,5 @@ Conforme o fluxo de telas do projeto, apresentado no item anterior, as telas do 
 - Menu Lateral - local onde são dispostos elementos fixos de identidade (logo) e navegação principal do site (menu da aplicação);
 - Conteúdo de sessão - apresentando o conteúdo de cada sessão;
 - Menu secundário - apresenta os elementos de navegação secundária, geralmente associados aos elementos do bloco de conteúdo, como configurações de sessão e paginação e busca por conteúdo. 
+
+
