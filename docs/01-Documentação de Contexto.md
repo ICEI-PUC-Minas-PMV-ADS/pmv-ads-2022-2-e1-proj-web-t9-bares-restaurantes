@@ -22,7 +22,7 @@ Os objetivos específicos desse sistema são:
 - Disponibilizar um aplicativo web que possa ser acessado em qualquer dispositivo a partir de um navegador de internet. 
 
 ## 1.3 - Justificativa ###
-Segundo a Associação Brasileira de Bares e Restaurantes (Abrasel) (apud CAZADO, 2019, p. 9) no Brasil, em 2015, existiam mais de um milhão de estabelecimentos gastronômicos, com mais de 6 milhões de pessoas empregadas. Além disso, “os brasileiros realizam 70 milhões de refeições fora de casa por ano, sendo a maioria destas refeições realizadas em estabelecimentos comerciais como restaurantes e outros estabelecimentos gastronômicos”. Conforme a Associação Brasileira da Indústria de Alimentos, o serviço de alimentos, incluindo bares e restaurantes,  cresceu 11% ao ano durante os anos de 2009 e 2019. 
+Segundo a Associação Brasileira de Bares e Restaurantes (Abrasel) (apud CAZADO, 2019, p. 9) no Brasil, em 2015, existiam mais de um milhão de estabelecimentos gastronômicos, com mais de 6 milhões de pessoas empregadas. Além disso, “os brasileiros realizam 70 milhões de refeições fora de casa por ano, sendo a maioria destas refeições realizadas em estabelecimentos comerciais como restaurantes e outros estabelecimentos gastronômicos”. Conforme a Associação Brasileira da Indústria de Alimentos [2], o serviço de alimentos, incluindo bares e restaurantes,  cresceu 11% ao ano durante os anos de 2009 e 2019. 
 
 Diante do exposto, conclui-se que o setor de bares e restaurantes está em constante crescimento, tornando a tecnologia mais requerida a fim de auxiliar as empresas na tomada de decisão, na gestão do negócio, potencialização das margens de lucro e uma maior automatização de alguns processos, proporcionando ainda um atendimento rápido e personalizado aos clientes, tornando seu serviço diferencial em relação aos concorrentes.
 
@@ -35,3 +35,4 @@ O público alvo deste projeto são as empresas dos setores gastronômicos, em es
 
 ---
 [1] - 242 Milhões de smartfones para aproximadamente 214 milhões de habitantes.
+[2] - Disponível em: https://www.sebrae.com.br/sites/PortalSebrae/artigos/bares-e-restaurantes-um-setor-em-expansao,1038d53342603410VgnVCM100000b272010aRCRD Acesso: 12/09/2022. 
