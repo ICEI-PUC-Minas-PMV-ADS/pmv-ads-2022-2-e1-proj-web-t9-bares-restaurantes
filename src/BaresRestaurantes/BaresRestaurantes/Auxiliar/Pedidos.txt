@@ -1,2 +1,0 @@
-1|1|2022,10,7,23,0,0|30|EmAndamento
-2|3|2022,10,7,23,0,0|4|Enviado Ao Cliente
