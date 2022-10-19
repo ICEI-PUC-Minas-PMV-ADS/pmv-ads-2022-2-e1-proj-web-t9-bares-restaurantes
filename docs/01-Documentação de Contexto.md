@@ -37,5 +37,3 @@ O público alvo deste projeto são as empresas dos setores gastronômicos, em es
 [1] - 242 Milhões de smartfones para aproximadamente 214 milhões de habitantes.
 
 [2] - Disponível em: https://www.sebrae.com.br/sites/PortalSebrae/artigos/bares-e-restaurantes-um-setor-em-expansao,1038d53342603410VgnVCM100000b272010aRCRD Acesso: 12/09/2022. 
-
-[Próximo](/docs/02-Especificação do Projeto.md)
