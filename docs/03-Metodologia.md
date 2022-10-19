@@ -61,7 +61,7 @@ Para a organização da equipe e a distribuição de tarefas foi escolhido o Tre
 - Para Fazer - Representa o que precisa ser feito no momento;
 - Fazendo - O que está sendo feito e por qual membro da equipe está sendo feito;
 - Feito - Lista com as tarefas realizadas;
-- Necessita ajuste - Avaliação feita da lista “feita” para alguns sprints que precisam ser revistos ou que apresentaram com algum erro durante o processo de revisão.
+- Necessita ajuste - Avaliação feita da lista “Feito” para alguns sprints que precisam ser revistos ou que apresentaram com algum erro durante o processo de revisão.
 
 ![image](https://user-images.githubusercontent.com/70844369/194785194-4f2cf98b-6f98-43f6-bf9f-0ee02858904a.png)
 Figura 1 - Trello usado pelo grupo disponível em: https://trello.com/b/DaT7e2zl/projeto-bares-e-restaurantes 
