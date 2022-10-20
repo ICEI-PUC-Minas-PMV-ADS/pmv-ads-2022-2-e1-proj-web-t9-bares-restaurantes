@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu lateral - App</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+    <link rel="preload" href="assets/css/style.css" as="style">
+    <link rel="preload" href="assets/js/script.js" as="script">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+   
+    <div class="wrapper">
+        <div class="section">
+            <div class="top_navbar">
+                <div class="hamburger">
+                    <a href="#">
+                        <i class="fas fa-bars"></i>
+                    </a>
+                </div>
+            </div>
+             
+        </div>
+        <div class="sidebar">
+            <div class="profile">
+                <img src="https://imgs.search.brave.com/kHIMEmsQZyBshfacVwvB0-wJi5FrrHXREoUbKqo3aK8/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/ZXVzZW1mcm9udGVp/cmFzLmNvbS5ici93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMC8w/Ny8xMTQ1NjQ3NDBf/bS5qcGc" alt="profile_picture">
+                <h3>Cliente X</h3>
+                <p>Mesa X</p>
+            </div>
+            <ul>
+                <li>
+                    <a href="#" class="active">
+                        <span class="icon"><i class="fas fa-home"></i></span>
+                        <span class="item">Cardápio</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <span class="icon"><i class="fas fa-desktop"></i></span>
+                        <span class="item">Comanda</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <span class="icon"><i class="fas fa-user-friends"></i></span>
+                        <span class="item">Pedidos</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <span class="icon"><i class="fas fa-tachometer-alt"></i></span>
+                        <span class="item">Editar perfil</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <span class="icon"><i class="fas fa-database"></i></span>
+                        <span class="item">Sign out</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        
+    </div>
+  <script>
+       var hamburger = document.querySelector(".hamburger");
+	hamburger.addEventListener("click", function(){
+		document.querySelector("body").classList.toggle("active");
+	})
+  </script>
+</body>
+</html>
