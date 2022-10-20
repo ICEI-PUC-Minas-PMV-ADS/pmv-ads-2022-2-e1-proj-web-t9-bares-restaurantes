@@ -4,13 +4,11 @@ Levantamos a necessidade da criação de um sistema que atendesse às demandas d
 
 Passando por todos os ambientes de trabalho entendemos as necessidades de cada usuário, como por exemplo: os clientes, gerentes, chefs de cozinha e garçons, cada um com sua problemática, o que nos possibilitou o levantamento das personas e consolidação das histórias dos usuários.
 
-
 ## 2.1 - Personas
 - Jubileu (Empresario/Gerente) - 54 anos - divorciado - 9 filhos. Empresário no ramo de gastronomia há mais de 27 anos.
 - Creonilde (Cliente) - 22 anos - trabalha com revenda de cosméticos e é frequentadora assídua do estabelecimento há pelo menos 3 anos.
 - Huliete (Chef de Cozinha) - 51 anos - divorciada (ex-esposa do Jubileu) - 6 filhos. Empresária e sócia no ramo de gastronomia há mais de 24 anos. 
 - Geriscreidon (Garçom) - 43 anos - 15 anos trabalhando no estabelecimento. Se orgulha de nunca ter recibo reclamação dos clientes pelos seus serviços e que as gorjetas ajudam ele a pagar as contas em casa.
-
 
 ## 2.2 - Histórias de Usuários
 
@@ -30,8 +28,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Huliete (chef de cozinha)|Alterar situação do pedido (recebido, fazendo, finalizado)|dar o feedback do status do pedido ao garçom e cliente.|
 |Geriscreidon (garçom)|Visualizar situação do pedido (recebido, em andamento, finalizado)|auxiliar na logística de envio dos pedidos à mesa.|
 |Geriscreidon (garçom)|verificar para qual mesa deve ser enviado cada pedido|enviar o pedido para a mesa correta.|
-
-
 
 
 ## 2.3 - Requisitos do Projeto
