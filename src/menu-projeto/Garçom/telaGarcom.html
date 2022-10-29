@@ -9,11 +9,12 @@
       rel="stylesheet"
       href="https://use.fontawesome.com/releases/v6.2.0/css/all.css"
     />
-    <link rel="preload" href="assets/css/style.css" as="style" />
-    <link rel="preload" href="assets/js/script.js" as="script" />
     <link rel="stylesheet" href="../assets/css/style.css" />
+    <script type="text/javascript" src="../assets/js/script.js"></script>
+
+    <style></style>
   </head>
-  <body>
+  <body onload="ExibirStatusPedidos()">
     <div class="wrapper">
       <div class="section">
         <div class="top_navbar">
@@ -38,84 +39,11 @@
           <img src="../assets/img/geriscreidon.PNG" alt="profile_picture" />
           <h3>Geriscreidon</h3>
         </div>
-        <ul>
-          <!--<li>
-          <a href="#" class="active">
-            <span class="icon"><i class="fas fa-book"></i></span>
-            <span class="item">Cardápio</span>
-          </a>
-        </li>
-        <li>
-          <a href="#">
-            <span class="icon"><i class="fas fa-desktop"></i></span>
-            <span class="item">Comanda</span>
-          </a>
-        </li>
-        <li>
-          <a href="#">
-            <span class="icon"><i class="fas fa-utensils"></i></span>
-            <span class="item">Pedidos</span>
-          </a>
-        </li>
-        <li>
-          <a href="#">
-            <span class="icon"><i class="fas fa-regular fa-user"></i></span>
-            <span class="item">Editar perfil</span>
-          </a>
-        </li>-->
-          <li>
-            <a href="#">
-              <span class="icon"><i class="fas fa-arrow-down"></i></span>
-              <span class="item">Sign out</span>
-            </a>
-          </li>
-        </ul>
       </div>
     </div>
-    <div>
-      <table class="center">
-         
-        <tr>
-             
-          <th>Firstname</th>
-             
-          <th>Lastname</th>
-             
-          <th>Age</th>
-           
-        </tr>
-         
-        <tr>
-             
-          <td>Jill</td>
-             
-          <td>Smith</td>
-             
-          <td>50</td>
-           
-        </tr>
-         
-        <tr>
-             
-          <td>Eve</td>
-             
-          <td>Jackson</td>
-             
-          <td>94</td>
-           
-        </tr>
-         
-        <tr>
-             
-          <td>John</td>
-             
-          <td>Doe</td>
-             
-          <td>80</td>
-           
-        </tr>
-      </table>
-    </div>
+
+    <div class="central" id="tabela"></div>
+
     <script>
       var hamburger = document.querySelector(".hamburger");
       hamburger.addEventListener("click", function () {
