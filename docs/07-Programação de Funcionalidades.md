@@ -8,7 +8,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
 Responsáveis:
 
-Elísia = Tela do Garçom
+<p> Elísia = Tela do Garçom </p>
 Primeiramente, clonei o repositório do github. Aproveitei o template para manter o mesmo style na página do garçom.
 Criei uma página telagarçom.html, acrescentei as imagens e adaptei o menu lateral.
 Depois iniciei o código JS, que ainda precisa ser melhorado, que mostra os status dos pedidos em formato de tabela.
