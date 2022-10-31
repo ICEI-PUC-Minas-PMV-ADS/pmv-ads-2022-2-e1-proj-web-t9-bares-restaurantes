@@ -1,0 +1,30 @@
+.table {
+    width: 85%;
+    font-weight: bolder;
+    float: right;
+}
+.cabeçalho{
+    background-color:rgb(247, 14, 14);
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: 30px;
+}
+.statuspedido {
+    color:azure;
+    background-color:rgb(240, 8, 8);
+    
+}
+.letrmeno {
+    font-size: medium;
+    font-size:20px;
+    background-color: rgb(170, 195, 195);
+}
+.octa {
+    font-size:25px;
+    font-weight: 60px;
+    font-style:initial;
+    background-color:rgb(235, 11, 11);
+    color: azure;
+    line-height:120px
+}
+
