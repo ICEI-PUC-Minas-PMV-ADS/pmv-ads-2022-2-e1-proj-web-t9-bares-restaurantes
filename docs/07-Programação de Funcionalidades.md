@@ -18,7 +18,8 @@ O código JS recebe o JSON e cria uma tabela dinamicamente. O resultado final da
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes/blob/10cfeecaa3d0629028e5c3eb16abc9d7f818ce06/docs/img/Teladogar%C3%A7om.PNG)
 
-Vídeo da explicação daa atividade https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes/blob/2e919f354cd13ee23ad2cbf6b6bd09d0d8d40246/docs/Explica%C3%A7%C3%A3o%20Elisia.mp4
+Vídeo da explicação da atividade está disponibilizado no youtube 
+https://youtu.be/7M3ytGxlrdM
 
 > **Links Úteis**:
 >
