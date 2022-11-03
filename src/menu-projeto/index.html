@@ -6,8 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Menu lateral - App</title>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.2.0/css/all.css">
-    <link rel="preload" href="assets/css/style.css" as="style">
-    <link rel="preload" href="assets/js/script.js" as="script">
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
@@ -33,13 +31,13 @@
                 <li>
                     <a href="#" class="active">
                         <span class="icon"><i class="fas fa-book"></i></span>
-                        <span class="item">Cardápio</span>
+                        <span class="item">Comanda</span>
                     </a>
                 </li>
                 <li>
                     <a href="#">
                         <span class="icon"><i class="fas fa-desktop"></i></span>
-                        <span class="item">Comanda</span>
+                        <span class="item">Cardápio</span>
                     </a>
                 </li>
                 <li>
@@ -64,11 +62,41 @@
         </div>
         
     </div>
-  <script>
+    
+    <script>
        var hamburger = document.querySelector(".hamburger");
 	hamburger.addEventListener("click", function(){
 		document.querySelector("body").classList.toggle("active");
 	})
-  </script>
+    </script>
+-->
+<div class="content">
+    <table class="rTable">
+        <thead>
+            <tr>
+                <th>Quantidade</th>
+                <th>Produto</th>
+                <th>Descrição</th>
+                <th>Preço</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Costela bolada</td>
+                <td>Costela de porco com BBQ</td>
+                <td>R$69,00</td>
+            </tr>
+
+            <tr>
+                <td>1</td>
+                <td>Filé "que tistreza"</td>
+                <td>Filé frito e empanado no gorgonzola laranja</td>
+                <td>R$89,00</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 </body>
 </html>
