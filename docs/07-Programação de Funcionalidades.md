@@ -21,6 +21,12 @@ O código JS recebe o JSON e cria uma tabela dinamicamente. O resultado final da
 Vídeo da explicação da atividade está disponibilizado no youtube 
 https://youtu.be/7M3ytGxlrdM
 
+
+<p> Geraldo = Tela Cliente </p>
+
+Foi feito o menu lateral, utilizando divs para a seleção posterior por meio de classes no CSS. Depois feito em tabelas os conteúdos da tela "comanda". 
+
+[Link de explicação](https://youtu.be/zIatWfAnyZQ).
 > **Links Úteis**:
 >
 > - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
