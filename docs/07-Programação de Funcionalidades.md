@@ -25,7 +25,7 @@ https://youtu.be/7M3ytGxlrdM
 <p> Geraldo = Tela Cliente </p>
 
 Foi feito o menu lateral, utilizando divs para a seleção posterior por meio de classes no CSS. Depois feito em tabelas os conteúdos da tela "comanda". Ainda não fiz a parte de JSON, pois ainda não cheguei nessa parte, mas espero fazer nessa próxima semana. Tive dificuldades na hora de fazer o script para o aparecimento e desaparecimento do menu hambúrguer, uma vez que ele deixa um pequeno bug na tela (deixando um espaço vazio). Foi tranquilo fazer o HTML e o CSS da tela!
-
+![tela _cliente](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes/blob/main/src/menu-projeto/assets/img/tela_projeto_ads_pucminas_cliente.png)
 
 [Link de explicação](https://youtu.be/zIatWfAnyZQ).
 > **Links Úteis**:
