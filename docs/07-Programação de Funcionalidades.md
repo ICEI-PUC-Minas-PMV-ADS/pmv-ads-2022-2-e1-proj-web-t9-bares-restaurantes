@@ -42,9 +42,9 @@ dos links, centralizei a logo pois  era um print usei o border-radius para elimi
 estilizei os botoes acresentei um efeito no login e um efeito no cadastra ate essa atepa achei tranquilo fazer. 
 * Ainda nao utilizei o JSON pois enstou com dificuldade nao estou conseguindo saber se esta funcionando ou Nâo.
 
-* [Tela login] (https://user-images.githubusercontent.com/70844369/194785964-43d40b3e-7062-4885-9a7b-f936523c13fe.png)
+* [Tela login] https://user-images.githubusercontent.com/70844369/194785964-43d40b3e-7062-4885-9a7b-f936523c13fe.png
 
-* Vídeo de explicação da atividade está disponivel no youtube:(https://youtu.be/A-_4wtHo7OI)
+* Vídeo de explicação da atividade está disponivel no youtube:https://youtu.be/A-_4wtHo7
   
 > **Links Úteis**:
 >
