@@ -26,8 +26,26 @@ https://youtu.be/7M3ytGxlrdM
 
 Foi feito o menu lateral, utilizando divs para a seleção posterior por meio de classes no CSS. Depois feito em tabelas os conteúdos da tela "comanda". Ainda não fiz a parte de JSON, pois ainda não cheguei nessa parte, mas espero fazer nessa próxima semana. Tive dificuldades na hora de fazer o script para o aparecimento e desaparecimento do menu hambúrguer, uma vez que ele deixa um pequeno bug na tela (deixando um espaço vazio). Foi tranquilo fazer o HTML e o CSS da tela!
 ![tela _cliente](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes/blob/main/src/menu-projeto/assets/img/tela_projeto_ads_pucminas_cliente.png)
+ 
 
 [Link de explicação](https://youtu.be/zIatWfAnyZQ).
+
+
+<p> Geison Amrorim = Tela Login/Cadastro</p>
+
+* Comecei clonando o repositorio do github e inciei criando o arquivo HTML e
+comecei com o formulario de login  coloquei a <div> com id de login, acresentei a imagen
+da logo e comecei fazer o form de login E-mail, senha e todos os inputs necessarios.
+* Logo apos acresentei o formulario de cadastro utilizando as <div> e tag <p>
+apos realizar esse processo vim acresentando o CSS, dei um primeiro resert e fui removendo a decorações 
+dos links, centralizei a logo pois  era um print usei o border-radius para eliminar o fundo
+estilizei os botoes acresentei um efeito no login e um efeito no cadastra ate essa atepa achei tranquilo fazer. 
+* Ainda nao utilizei o JSON pois enstou com dificuldade nao estou conseguindo saber se esta funcionando ou Nâo.
+
+* [Tela login] (https://user-images.githubusercontent.com/70844369/194785964-43d40b3e-7062-4885-9a7b-f936523c13fe.png)
+
+* Vídeo de explicação da atividade está disponivel no youtube:(https://youtu.be/A-_4wtHo7OI)
+  
 > **Links Úteis**:
 >
 > - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
