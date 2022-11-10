@@ -19,6 +19,12 @@
     margin: 0px auto;
     position: relative;   
   }
+  .logo{
+    margin-left: 25%;
+  }
+  #img{
+    border-radius: 100%;
+  }
   h1{
     font-size: 40px;
     color: black;
@@ -26,14 +32,13 @@
     font-family: Arial,sans-serif;
     font-weight: bold;
     text-align: center;
-    padding-bottom: 30px;
   }
   h1:after{
     content: ' ';
     display: block;
     width: 100%;
     height: 2px;
-    margin-top: 10px;
+    
    
   }
   p{
@@ -86,10 +91,8 @@
    
   .link a {
     font-weight: bold;
-    background: #f7f8f1;
-    padding: 6px;
-    color: rgb(214, 28, 32);
-    margin-left: 10px;
+    background: #f7f8f1;    
+    color: rgb(214, 28, 32);    
 
   }
    

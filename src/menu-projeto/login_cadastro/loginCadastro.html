@@ -3,7 +3,7 @@
   <meta charset="UTF-8" />
   <title>Login </title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-  <link rel="stylesheet" type="text/css" href="style.css" />
+  <link rel="stylesheet" type="text/css" href="loginCadastro.css" />
 </head>
 <body>
   <div class="container" >
@@ -13,6 +13,9 @@
     <div class="content">      
       <!--FORMULÁRIO DE LOGIN-->
       <div id="login">
+        <div class="logo">
+          <img id="img" src="./img/logo.png">
+        </div>
         <form method="post" action=""> 
           <h1>Fazer login</h1> 
           <p>
@@ -32,16 +35,25 @@
           <p> 
             <input type="submit" value="Fazer login" /> 
           </p>
+
+          <p class="link">
+            <a href="#semCadastro">Continuar sem cadastro</a>
+          </p>
            
           <p class="link">
-             Não tem  uma conta?
-            <a href="#paracadastro">Cadastre-se</a>
+             <hr style="display: none;">Não tem  uma conta?</hr>
+            <a href="#paracadastro" style="font-weight: bold;
+            background: #f7f8f1;
+            color: rgb(214, 28, 32);">Cadastre-se</a>
           </p>
         </form>
       </div>
  
       <!--FORMULÁRIO DE CADASTRO-->
       <div id="cadastro">
+        <div class="logo">
+          <img id="img" src="./img/logo.png">
+        </div>
         <form method="post" action=""> 
           <h1>Cadastre-se e aproveite</h1> 
            
