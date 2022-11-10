@@ -44,8 +44,8 @@ estilizei os botoes acresentei um efeito no login e um efeito no cadastra ate es
 
 * [Tela login]  <img src="https://user-images.githubusercontent.com/70844369/194785964-43d40b3e-7062-4885-9a7b-f936523c13fe.png">
 
-* Vídeo de explicação da atividade está disponivel no youtube: 
-<div class="g-ytsubscribe" data-channel="https://youtu.be/A-_4wtHo7" data-layout="default" data-count="default"></div>
+* Vídeo de explicação da atividade está disponivel no youtube: <a src="https://youtu.be/A-_4wtHo7">
+
  
 > **Links Úteis**:
 >
