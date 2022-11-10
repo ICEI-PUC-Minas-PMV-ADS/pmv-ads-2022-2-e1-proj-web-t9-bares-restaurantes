@@ -44,10 +44,10 @@ estilizei os botoes acresentei um efeito no login e um efeito no cadastra ate es
 
 * [Tela login]  <img src="https://user-images.githubusercontent.com/70844369/194785964-43d40b3e-7062-4885-9a7b-f936523c13fe.png">
 
-* Vídeo de explicação da atividade está disponivel no youtube: <script src="https://youtu.be/A-_4wtHo7"></script>
+* Vídeo de explicação da atividade está disponivel no youtube: <script src="https://apis.google.com/js/platform.js"></script>
 
-<div class="g-ytsubscribe" data-channel="GoogleDevelopers" data-layout="default" data-count="default">
-  
+<div class="g-ytsubscribe" data-channel="https://youtu.be/A-_4wtHo7" data-layout="default" data-count="default"></div>
+ 
 > **Links Úteis**:
 >
 > - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
