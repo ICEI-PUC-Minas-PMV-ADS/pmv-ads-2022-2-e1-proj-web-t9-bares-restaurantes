@@ -26,7 +26,8 @@ https://youtu.be/7M3ytGxlrdM
 
 Foi feito o menu lateral, utilizando divs para a seleção posterior por meio de classes no CSS. Depois feito em tabelas os conteúdos da tela "comanda". Ainda não fiz a parte de JSON, pois ainda não cheguei nessa parte, mas espero fazer nessa próxima semana. Tive dificuldades na hora de fazer o script para o aparecimento e desaparecimento do menu hambúrguer, uma vez que ele deixa um pequeno bug na tela (deixando um espaço vazio). Foi tranquilo fazer o HTML e o CSS da tela!
 ![tela _cliente](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes/blob/main/src/menu-projeto/assets/img/tela_projeto_ads_pucminas_cliente.png)
- 
+
+
 
 [Link de explicação](https://youtu.be/zIatWfAnyZQ).
 
@@ -55,3 +56,11 @@ estilizei os botoes acresentei um efeito no login e um efeito no cadastra ate es
 > - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
 > - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
 > - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+
+ <P> Pedro fidelis = Tela Flux Garçon</p>
+ *Iniciei criando duas tabelas uma na  horizontal e outra na vertical no arquivo index html,tiver certa dificuldade de  de obter o mesmo layout 
+ dos outros amigos do grupo,
+ *Linkei uma imagem do logo no canto superior esquerdo e estilizei tamanho e posição via css
+ ![FLUXO GARÇON](https://user-images.githubusercontent.com/115049250/201232034-ebd5f9e0-4915-43a4-ac02-1f06fb32027b.png)
+ 
+ link com o video gravado :https://youtu.be/P01sGRv5t0I
