@@ -60,7 +60,6 @@ estilizei os botoes acresentei um efeito no login e um efeito no cadastra ate es
  <P> Pedro fidelis = Tela Flux Garçon</p>
  *Iniciei criando duas tabelas uma na  horizontal e outra na vertical no arquivo index html,tiver certa dificuldade de  de obter o mesmo layout 
  dos outros amigos do grupo,
- *Linkei uma imagem do logo no canto superior esquerdo e estilizei tamanho e posição via css
- ![FLUXO GARÇON](https://user-images.githubusercontent.com/115049250/201232034-ebd5f9e0-4915-43a4-ac02-1f06fb32027b.png)
+ *Linkei uma imagem do logo no canto superior esquerdo e estilizei tamanho e posição via css <img src="https://user-images.githubusercontent.com/115049250/201232034-ebd5f9e0-4915-43a4-ac02-1f06fb32027b.png" 
  
  link com o video gravado :https://youtu.be/P01sGRv5t0I
