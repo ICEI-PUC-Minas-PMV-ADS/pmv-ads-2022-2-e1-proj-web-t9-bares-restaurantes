@@ -61,7 +61,7 @@ main{
         position: absolute;
         top: 8vh;
         right: 0;
-        width: 50vh;
+        width: 50vw;
         height: 92vh;
         background: #f00;
         flex-direction: column;
