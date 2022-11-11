@@ -48,7 +48,7 @@ estilizei os botoes acresentei um efeito no login e um efeito no cadastra ate es
 * Vídeo de explicação da atividade está disponivel no youtube: https://www.youtube.com/watch?v=A-_4wtHo7OI
 
 
- ## Pedro fidelis = Tela Flux Garçon
+ ## Pedro fidelis = Tela Fluxo Cozinheiro
  *Iniciei criando duas tabelas uma na  horizontal e outra na vertical no arquivo index html,tiver certa dificuldade de  de obter o mesmo layout 
  dos outros amigos do grupo,
  *Linkei uma imagem do logo no canto superior esquerdo e estilizei tamanho e posição via css 
