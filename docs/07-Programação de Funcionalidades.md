@@ -6,9 +6,9 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 
 Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
-Responsáveis:
+## Responsáveis:
 
-<p> Elísia = Tela do Garçom </p>
+## Elísia = Tela do Garçom
 Primeiramente, clonei o repositório do github. Aproveitei o template para manter o mesmo style na página do garçom.
 Criei uma página telagarçom.html, acrescentei as imagens e adaptei o menu lateral.
 Depois iniciei o código JS, que ainda precisa ser melhorado, que mostra os status dos pedidos em formato de tabela.
@@ -22,7 +22,7 @@ Vídeo da explicação da atividade está disponibilizado no youtube
 https://youtu.be/7M3ytGxlrdM
 
 
-<p> Geraldo = Tela Cliente </p>
+## Geraldo = Tela Cliente
 
 Foi feito o menu lateral, utilizando divs para a seleção posterior por meio de classes no CSS. Depois feito em tabelas os conteúdos da tela "comanda". Ainda não fiz a parte de JSON, pois ainda não cheguei nessa parte, mas espero fazer nessa próxima semana. Tive dificuldades na hora de fazer o script para o aparecimento e desaparecimento do menu hambúrguer, uma vez que ele deixa um pequeno bug na tela (deixando um espaço vazio). Foi tranquilo fazer o HTML e o CSS da tela!
 ![tela _cliente](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes/blob/main/src/menu-projeto/assets/img/tela_projeto_ads_pucminas_cliente.png)
@@ -32,12 +32,12 @@ Foi feito o menu lateral, utilizando divs para a seleção posterior por meio de
 [Link de explicação](https://youtu.be/zIatWfAnyZQ).
 
 
-<p> Geison Amrorim = Tela Login/Cadastro</p>
+## Geison Amrorim = Tela Login/Cadastro 
 
 * Comecei clonando o repositorio do github e inciei criando o arquivo HTML e
 comecei com o formulario de login  coloquei a <div> com id de login, acresentei a imagen
 da logo e comecei fazer o form de login E-mail, senha e todos os inputs necessarios.
-* Logo apos acresentei o formulario de cadastro utilizando as <div> e tag <p>
+* Logo apos acresentei o formulario de cadastro utilizando as <div> e tag <>
 apos realizar esse processo vim acresentando o CSS, dei um primeiro resert e fui removendo a decorações 
 dos links, centralizei a logo pois  era um print usei o border-radius para eliminar o fundo
 estilizei os botoes acresentei um efeito no login e um efeito no cadastra ate essa atepa achei tranquilo fazer. 
@@ -48,7 +48,14 @@ estilizei os botoes acresentei um efeito no login e um efeito no cadastra ate es
 * Vídeo de explicação da atividade está disponivel no youtube: https://www.youtube.com/watch?v=A-_4wtHo7OI
 
 
+ ## Pedro fidelis = Tela Flux Garçon
+ *Iniciei criando duas tabelas uma na  horizontal e outra na vertical no arquivo index html,tiver certa dificuldade de  de obter o mesmo layout 
+ dos outros amigos do grupo,
+ *Linkei uma imagem do logo no canto superior esquerdo e estilizei tamanho e posição via css <img src="https://user-images.githubusercontent.com/115049250/201232034-ebd5f9e0-4915-43a4-ac02-1f06fb32027b.png" 
  
+ link com o video gravado :https://youtu.be/P01sGRv5t0I
+
+  
 > **Links Úteis**:
 >
 > - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
@@ -56,10 +63,3 @@ estilizei os botoes acresentei um efeito no login e um efeito no cadastra ate es
 > - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
 > - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
 > - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
-
- <P> Pedro fidelis = Tela Flux Garçon</p>
- *Iniciei criando duas tabelas uma na  horizontal e outra na vertical no arquivo index html,tiver certa dificuldade de  de obter o mesmo layout 
- dos outros amigos do grupo,
- *Linkei uma imagem do logo no canto superior esquerdo e estilizei tamanho e posição via css <img src="https://user-images.githubusercontent.com/115049250/201232034-ebd5f9e0-4915-43a4-ac02-1f06fb32027b.png" 
- 
- link com o video gravado :https://youtu.be/P01sGRv5t0I
