@@ -64,8 +64,12 @@ footer {
   
 }
 footer a{
-  color: #fff;
+color: #fff;
 text-decoration: none;
 cursor: pointer;
 } 
+footer a:hover{
+ color:#f00;
+ background:#fff;
+}
 
