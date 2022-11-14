@@ -10,6 +10,8 @@ function enviar() {
     } else {
         alert('Por favor: Verifique seus dados!')
     }
+    msg.value = ''
+    msg.focus()
     email.value = ''
     email.focus()
     tel.value = ''
