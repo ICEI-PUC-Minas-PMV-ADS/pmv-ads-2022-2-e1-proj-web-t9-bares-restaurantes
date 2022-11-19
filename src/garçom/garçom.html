@@ -1,17 +1,16 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-  <head>
+<head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Tela do Garçom - App</title>
-    <link
-      rel="stylesheet"
-      href="https://use.fontawesome.com/releases/v6.2.0/css/all.css"
-    />
-    <link rel="stylesheet" href="../assets/css/style.css" />
-    <script type="text/javascript" src="../assets/js/script.js"></script>
-  </head>
+    <link rel="stylesheet"
+          href="https://use.fontawesome.com/releases/v6.2.0/css/all.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <script type="text/javascript" src="js/script.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
   <body onload="ExibirStatusPedidos()">
     <div class="wrapper">
       <div class="section">
@@ -25,7 +24,7 @@
       </div>
       <div class="sidebar">
         <div class="profile">
-          <img src="../assets/img/imgGarcom.PNG" alt="profile_picture" />
+          <img style="display: none;" src="img/imgGarcom.PNG" alt="profile_picture" />
           <h3>Status dos Pedidos</h3>
         </div>
 
@@ -34,7 +33,7 @@
         <div class="profile" style="height: 400px"></div>
 
         <div class="profile">
-          <img src="../assets/img/geriscreidon.PNG" alt="profile_picture" />
+          <img style="display: none;" src="img/geriscreidon.PNG" alt="profile_picture" />
           <h3>Geriscreidon</h3>
         </div>
       </div>
@@ -47,6 +46,10 @@
       hamburger.addEventListener("click", function () {
         document.querySelector("body").classList.toggle("active");
       });
+
+        $(document).ready(function () {
+            $("img").show(5000);
+        });
     </script>
   </body>
 </html>
