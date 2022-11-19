@@ -74,7 +74,7 @@ input:not([type="checkbox"]){
 
 @font-face {
     font-family:'Roboto-Regular' ;
-    src: url(../assets/fontes/Roboto-Regular.ttf);
+    src: url(../fontes/Roboto-Regular.ttf);
     font-weight: normal;
 }
 body{
