@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="../login/css/login.css">
+    <link rel="stylesheet" type="text/css" href="../login/css/login.css">    
     <title>Document</title>
 </head>
 <body>
@@ -14,27 +14,27 @@
             <div class="logo">
                 <img id="img" src="./img/logo.png" style="border-radius: 100%; margin-left: 30px;">
               </div>
-            <form class="row g-3">
+            <form id="row g-3">
                 <div class="col-12">
                     <p style="font-weight: bold; align-items: center; margin-left: 60px; font-size: x-large;">Cadastre-se e aproveite</p>                    
-                    <input type="text" class="form-control" id="inputAddress" placeholder="Nome completo" style="padding: 10px;">
+                    <input type="text" name="nome" id="inputAddress" placeholder="Nome completo" style="padding: 10px;">
                   </div>
                 <div class="col-md-6">                  
-                  <input type="email" class="form-control" id="inputEmail4" placeholder="E-mail" style="padding: 10px;">
+                  <input type="email" name="email" id="email" placeholder="E-mail" style="padding: 10px;">
                 </div>
                 <div class="col-md-6">                  
-                  <input type="password" class="form-control" id="inputPassword4" placeholder="Senha" style="padding: 10px;">
-                </div>                      
-                       
+                  <input type="password" name="senha" id="senha" placeholder="Senha" style="padding: 10px;">
+                </div> 
                 <div class="col-12">
-                  <button style="width: 100% ; background-color:rgb(214, 28, 32) ; " class="btn btn-primary">Cadastra</button>
-                </div>
-              </form>
+                  <button  type="submit" style="width: 100% ; background-color:rgb(214, 28, 32) ; " class="btn" >Cadastra</button>
+                </div>            
+            </form>            
               <p class="link">
                 Já tem uma conta ?
                 <a href="./login.html" style="text-decoration:none; color:rgb(214, 28, 32) ; font-weight: bold; margin-left: 10px;">Faça login</a>
               </p> 
         </div>    
-    </div>
+    </div>    
+    <script src="../login/js/cadastro.js"></script>
 </body>
 </html>
