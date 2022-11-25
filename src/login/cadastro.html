@@ -7,7 +7,7 @@
     <link rel="stylesheet" type="text/css" href="../login/css/login.css">    
     <title>Document</title>
 </head>
-<body>
+<body style="overflow-y:hidden ;">
     <!--FORMULÁRIO DE CADASTRO-->
     <div class="conteiner">
         <div class="row cadastro-form">
@@ -15,10 +15,13 @@
                 <img id="img" src="./img/logo.png" style="border-radius: 100%; margin-left: 30px;">
               </div>
             <form id="row g-3">
-                <div class="col-12">
-                    <p style="font-weight: bold; align-items: center; margin-left: 60px; font-size: x-large;">Cadastre-se e aproveite</p>                    
+              <div class="col-md-6">  
+                <p style="font-weight: bold; align-items: center; margin-left: 60px; font-size: x-large;">Cadastre-se e aproveite</p>                  
+                <input type="usuario" name="usuario" id="usuario" placeholder="Usuário" style="padding: 10px;">
+              </div>
+                <div class="col-12">                                     
                     <input type="text" name="nome" id="inputAddress" placeholder="Nome completo" style="padding: 10px;">
-                  </div>
+                  </div>                  
                 <div class="col-md-6">                  
                   <input type="email" name="email" id="email" placeholder="E-mail" style="padding: 10px;">
                 </div>
