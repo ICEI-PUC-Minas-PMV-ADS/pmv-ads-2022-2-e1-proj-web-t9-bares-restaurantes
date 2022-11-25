@@ -51,7 +51,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+* https://bareserestaurantes.github.io 
 
 # Armazenamento do Código-Fonte
 
