@@ -158,3 +158,12 @@ table.center {
     display: none;
   }
 }
+
+/*estilo dos input,  menos o checkbox */
+input:not([type="checkbox"]) {
+    /*width: 95%;*/
+    margin-top: 4px;
+    padding: 5px;
+    border: 1px solid #b2b2b2;
+    border-radius: 0.375rem;
+}

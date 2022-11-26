@@ -60,3 +60,29 @@ function criarTabela(pedidos) {
 function Redirecionar() {
   window.location.href = "tela2.html";
 }
+
+function meuFiltro() {
+    var inputStatus, status, mesa, table, tr, tdStatus, tdMesa, i;
+    inputStatus = document.getElementById("filterByStatus");
+    inputMesa = document.getElementById("filterByMesa");
+    status = inputStatus.value.toUpperCase();
+    mesa = inputMesa.value.toUpperCase();
+    table = document.getElementById("tabela");
+    tr = table.getElementsByTagName("tr");   
+
+    for (i = 0; i < tr.length; i++) {
+        tdMesa = tr[i].getElementsByTagName("td")[0];
+        tdStatus = tr[i].getElementsByTagName("td")[3];
+
+        if (tdMesa && tdStatus ) {
+            if (tdStatus.innerHTML.toUpperCase().indexOf(status) > -1 && tdMesa.innerHTML.toUpperCase().indexOf(mesa) > -1) {
+                tr[i].style.display = "";
+            }
+            else {
+                tr[i].style.display = "none";
+            }
+        } else {
+            tr[i].style.display = "";
+        }
+    }
+}

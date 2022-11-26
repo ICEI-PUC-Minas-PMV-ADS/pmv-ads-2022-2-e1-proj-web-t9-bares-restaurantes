@@ -11,45 +11,51 @@
     <script type="text/javascript" src="js/script.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 </head>
-  <body onload="ExibirStatusPedidos()">
+<body onload="ExibirStatusPedidos()">
     <div class="wrapper">
-      <div class="section">
-        <div class="top_navbar">
-          <div class="hamburger">
-            <a href="#">
-              <i class="fas fa-bars"></i>
-            </a>
-          </div>
+        <div class="section">
+            <div class="top_navbar">
+                <div class="hamburger">
+                    <a href="#">
+                        <i class="fas fa-bars"></i>
+                    </a>
+                </div>
+            </div>
         </div>
-      </div>
-      <div class="sidebar">
-        <div class="profile">
-          <img style="display: none;" src="img/imgGarcom.PNG" alt="profile_picture" />
-          <h3>Status dos Pedidos</h3>
+        <div class="sidebar">
+            <div class="profile">
+                <img style="display: none;" src="img/imgGarcom.PNG" alt="profile_picture" />
+                <h3>Status dos Pedidos</h3>
+            </div>
+
+            <hr />
+
+            <div class="profile" style="height: 400px"></div>
+
+            <div class="profile">
+                <img style="display: none;" src="img/geriscreidon.PNG" alt="profile_picture" />
+                <h3>Geriscreidon</h3>
+            </div>
         </div>
-
-        <hr />
-
-        <div class="profile" style="height: 400px"></div>
-
-        <div class="profile">
-          <img style="display: none;" src="img/geriscreidon.PNG" alt="profile_picture" />
-          <h3>Geriscreidon</h3>
-        </div>
-      </div>
     </div>
 
-    <div class="central" id="tabela"></div>
+    
+    <div class="central" id="tabela">
+        <!--<label>Mesa</label>-->
+        <input type="text" id="filterByMesa" class="form-control" style="margin-top: 30px;" onkeyup="meuFiltro()" placeholder="Número da mesa" title="Type in a name">
+        <!--<label>Status</label>-->
+        <input type="text" id="filterByStatus" class="form-control" style="margin-top: 30px;" onkeyup="meuFiltro()" placeholder="Status do pedido" title="Type in a name">
+    </div>
 
     <script>
-      var hamburger = document.querySelector(".hamburger");
-      hamburger.addEventListener("click", function () {
-        document.querySelector("body").classList.toggle("active");
-      });
+        var hamburger = document.querySelector(".hamburger");
+        hamburger.addEventListener("click", function () {
+            document.querySelector("body").classList.toggle("active");
+        });
 
         $(document).ready(function () {
             $("img").show(5000);
         });
     </script>
-  </body>
+</body>
 </html>
