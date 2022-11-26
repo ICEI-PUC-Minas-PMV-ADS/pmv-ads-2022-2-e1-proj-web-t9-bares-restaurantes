@@ -1,49 +1,59 @@
 // Dados JSON
-var textoJSON = {
-    "cadastros": [
-        {
-            "usuario": "jubileu",
-            "nome": "Jubileu dos Anjos",
-            "email": "jubileu@abc.com.br",
-            "senha": "12345"
-        },
-        {
-            "usuario": "creonilde",
-            "nome": "Creonilde das Flores",
-            "email": "creonilde@abc.com.br",
-            "senha": "12345"
-        },
-        {
-            "usuario": "huliete",
-            "nome": "Huliete dos Campos",
-            "email": "huliete@abc.com.br",
-            "senha": "12345"
-        },
-        {
-            "usuario": "geriscreidon",
-            "nome": "Geriscreidon Silva",
-            "email": "geriscreidon@abc.com.br",
-            "senha": "12345"
-        }
-    ]
-};
-//Traformando JSON em objt
-var obj = JSON.parse(textoJSON);
+var Cadastros = [{
+
+    "usuario": "jubileu",
+    "nome": "Jubileu dos Anjos",
+    "email": "jubileu@abc.com.br",
+    "senha": "12345",
+    "cargo": "gerente"
+},
+{
+    "usuario": "creonilde",
+    "nome": "Creonilde das Flores",
+    "email": "creonilde@abc.com.br",
+    "senha": "12345",
+    "cargo": "cliente"
+},
+{
+    "usuario": "huliete",
+    "nome": "Huliete dos Campos",
+    "email": "huliete@abc.com.br",
+    "senha": "12345",
+    "cargo": "cozinheiro(a)"
+},
+{
+    "usuario": "geriscreidon",
+    "nome": "Geriscreidon Silva",
+    "email": "geriscreidon@abc.com.br",
+    "senha": "12345",
+    "cargo": "garcom"
+}
+];
 
 // entrando com os dados
 function logar() {
     var useName = document.getElementById("usuario");
     var senha = document.getElementById("senha");
 
+    for (let i = 0; i < Cadastros.length; i++) {
+        // Autenticação de Usuário/Senha
+        var cargo = Cadastros[i].cargo;
 
-    // Autenticação de Usuário/Senha
-    if (useName.value == obj.usuario && senha.value == obj.senha) {
-        localStorage.setItem("acesso", true);
-        alert("Usuario autenticado!")
+        if (useName.value == Cadastros[i].usuario && senha.value == Cadastros[i].senha) {
+            switch (cargo) {
+                case "cliente":
+                    window.location.href = "../cliente/index.html";
+                case "garcom":
+                    window.location.href = "../garçom/garçom.html";
+                    break;
 
-        window.location.href = "../index.html";
-
-    } else {
-        alert("Usuario ou senha invalidos!");
+            }
+        }
     }
-};
+}
+
+
+
+
+
+

@@ -1,4 +1,4 @@
-var logado = false;
+/*var logado = false;
 
 if (localStorage.getItem("acesso") == "true"){
     logado = true
@@ -8,4 +8,4 @@ if (localStorage.getItem("acesso") == "true"){
 if(logado != true){
     alert("Você não esta autenticado!");
     window.location.href = "logar.html";
-}
+}*/
