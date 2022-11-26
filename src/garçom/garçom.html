@@ -30,7 +30,27 @@
 
             <hr />
 
+            <ul>
+
+                <li>
+                    <a href="../home/index.html">
+                        <span class="icon"><i class="fas fa-house-user"></i></span>
+                        <span class="item">Home</span>
+                    </a>
+                </li>
+
+                <li>
+                    <a href="../login/login.html">
+                        <span class="icon"><i class="fas fa-arrow-down"></i></span>
+                        <span class="item">Sign out</span>
+                    </a>
+                </li>
+            </ul>
+
             <div class="profile" style="height: 400px"></div>
+
+
+
 
             <div class="profile">
                 <img style="display: none;" src="img/geriscreidon.PNG" alt="profile_picture" />
@@ -51,10 +71,10 @@
         var hamburger = document.querySelector(".hamburger");
         hamburger.addEventListener("click", function () {
             document.querySelector("body").classList.toggle("active");
-        });
+        });        
 
         $(document).ready(function () {
-            $("img").show(5000);
+            $("img").show(1);
         });
     </script>
 </body>

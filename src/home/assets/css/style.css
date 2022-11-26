@@ -1,3 +1,4 @@
+/* zerar estilo da página completa */
 * {
   list-style: none;
   text-decoration: none;
@@ -9,6 +10,7 @@
 
 body {
   background: #f5f6fa;
+  margin-left: 225px;
 }
 
 .wrapper .sidebar {
@@ -110,62 +112,15 @@ body.active .wrapper .section {
   width: 100%;
 }
 
-table.center {
-  margin-left: auto;
-  margin-right: auto;
+table {
+  width: calc(100% - 225px);
+  margin-left: 225px;
 }
 
-.central {
-    width: 1400px;
-    margin-left: auto;
-    margin-right: auto;
-    font-size: 21px;
+table.active {
+  width: 100%;
+  margin: auto;
 }
 
-#tabela {
-  font-family: Arial, Helvetica, sans-serif;
-  border-collapse: collapse;
-  /* width: 100%; */
-}
 
-#tabela td,
-#tabela th {
-  border: 1px solid #ddd;
-  padding: 8px;
-}
 
-#tabela tr:nth-child(even) {
-  background-color: #f2f2f2;
-}
-
-#tabela tr:hover {
-  background-color: #ddd;
-}
-
-#tabela th {
-  /* padding-top: 12px;
-        padding-bottom: 12px; */
-  text-align: left;
-  background-color: rgb(214, 28, 32);
-  color: white;
-}
-
-.wrapper {
-  display: block;
-}
-
-@media screen and (max-width: 20px) {
-  .wrapper {
-    display: none;
-  }
-}
-
-/*estilo dos input,  menos o checkbox */
-input:not([type="checkbox"]) {
-    /*width: 95%;*/
-    margin-top: 4px;
-    padding: 5px;
-    border: 1px solid #b2b2b2;
-    border-radius: 0.375rem;
-    font-size: 21px;
-}

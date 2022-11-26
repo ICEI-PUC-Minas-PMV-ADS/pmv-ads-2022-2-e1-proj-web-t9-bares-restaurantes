@@ -3,13 +3,22 @@
 //Simulação de resposta de uma API que retorna uma lista de pedidos
 var listaMesa =
   '{ "pedidos": [{' +
-  '"numeroMesa": 1,"nome": "Filé Parmegiana", "horario": "20:00", "status": "Em Andamento"},' +
-  '{ "numeroMesa": 1, "nome": "Soda Italiana", "horario": "20:00", "status": "Enviado ao Cliente" },' +
-  '{ "numeroMesa": 2, "nome": "Costela de Porco", "horario": "21:00", "status": "Recebido" },' +
-  '{ "numeroMesa": 2, "nome": "Suco de Uva", "horario": "19:00", "status": "Finalizado" }   ] }';
+  '"numeroMesa": 1,"nome": "FILÉ PARMEGIANA: Filé de peito de frango empanado crocante, muçarela, orégano, molho pomodoro e parmesão. Acompanha: purê de batata.", "horario": "20:00", "status": "Em Andamento"},' +
+  '{ "numeroMesa": 1, "nome": "SODA ITALIANA: maçã verde", "horario": "20:15", "status": "Enviado ao Cliente" },' +
+  '{ "numeroMesa": 1, "nome": "COSTELA DE PORCO: 1kg de costela suína ao molho barbecue, acompanha batatas assadas e queijo cheddar", "horario": "20:30", "status": "Recebido" },' +
+  '{ "numeroMesa": 2, "nome": "ESTROGONOFFE GRATINADO - FRANGO:Estrogonofe de sobrecoxa de frango em tiras com champignon e parmesão gratinado. Acompanha: Arroz branco com cebola dourada no azeite e batata palha.", "horario": "19:55", "status": "Recebido" },' +
+  '{ "numeroMesa": 2, "nome": "TILÁPIA FIT: 300g de tilápia assada, acompanhada de purê e legumes.", "horario": "20:10", "status": "Em andamento" },' +
+  '{ "numeroMesa": 2, "nome": "CAESAR SALAD:Filé de sobrecoxa de frango grelhado em tiras, alface americana, tomate uva, bacon crocante, parmesão, croutons e molho caesar.", "horario": "20:33", "status": "Recebido" },' +
+  '{ "numeroMesa": 5, "nome": "REFRIGERANTE: coca-zero lata", "horario": "19:30", "status": "Finalizado" },' +
+  '{ "numeroMesa": 5, "nome": "CERVEJA: Heineken (330ml)", "horario": "19:35", "status": "Recebido" },' +
+  '{ "numeroMesa": 5, "nome": "COSTELA DE PORCO: 1kg de costela suína ao molho barbecue, acompanha batatas assadas e queijo cheddar", "horario": "19:45", "status": "Em Andamento" },' +
+  '{ "numeroMesa": 9, "nome": "PETIT GATEAU ESPECIAL DE NUTELLA:Acompanha sorvete de creme e farofa crocante de castanhas.", "horario": "20:50", "status": "Recebido" },' +
+  '{ "numeroMesa": 9, "nome": "SUCO 300ml: Maracujá", "horario": "21:00", "status": "Finalizado" }   ] }';
 
 //converte a string em Json
 var json = JSON.parse(listaMesa);
+
+//window.location.href = "http://www.devmedia.com.br";
 
 //Função chamado ao carregar a página, para atualizar o status dos pedidos
 function ExibirStatusPedidos() {
