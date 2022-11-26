@@ -12,7 +12,7 @@ body {
 }
 
 .wrapper .sidebar {
-  background: rgb(119, 0, 0);
+  background: rgb(214, 28, 32);
   position: fixed;
   top: 0;
   left: 0;
@@ -85,7 +85,7 @@ body {
 }
 
 .wrapper .section .top_navbar {
-  background: rgb(119, 0, 0);
+  background: rgb(214, 28, 32);
   height: 50px;
   display: flex;
   align-items: center;
@@ -145,7 +145,7 @@ table.center {
   /* padding-top: 12px;
         padding-bottom: 12px; */
   text-align: left;
-  background-color: rgb(119, 0, 0);
+  background-color: rgb(214, 28, 32);
   color: white;
 }
 

@@ -14,7 +14,7 @@ body {
 }
 
 .wrapper .sidebar {
-  background: rgb(119, 0, 0);
+  background: rgb(214, 28, 32);
   position: fixed;
   top: 0;
   left: 0;
@@ -87,7 +87,7 @@ body {
 }
 
 .wrapper .section .top_navbar {
-  background: rgb(119, 0, 0);
+  background: rgb(214, 28, 32);
   height: 50px;
   display: flex;
   align-items: center;
