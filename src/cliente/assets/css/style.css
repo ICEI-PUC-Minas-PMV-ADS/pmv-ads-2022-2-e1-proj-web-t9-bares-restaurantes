@@ -113,7 +113,14 @@ body.active .wrapper .section {
 }
 
 table {
+  width: calc(100% - 225px);
   margin-left: 225px;
-
 }
+
+table.active {
+  width: 100%;
+  margin: auto;
+}
+
+
 

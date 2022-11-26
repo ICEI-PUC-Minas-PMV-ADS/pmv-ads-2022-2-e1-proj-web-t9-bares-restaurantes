@@ -1,0 +1,26 @@
+[
+                  {
+                    "quantidade": "1",
+                    "nome": "Empanado de soja",
+                    "horario": "20:02",
+                    "preco": "26.00"
+                  },
+                  {
+                    "quantidade": "1",
+                    "nome": "Costela vegana com BBQ",
+                    "horario": "20:03",
+                    "preco": "31.00"
+                 },
+                 {
+                    "quantidade": "1",
+                    "nome": "Suco de caju com hortelã",
+                    "horario": "20:23",
+                    "preco": "5.50"
+                 },
+                 {
+                    "quantidade": "1",
+                    "nome": "Suco de maracujá",
+                    "horario": "20:23",
+                    "preco": "5.50"
+                 }            
+                ]
