@@ -2,24 +2,28 @@
                   {
                     "quantidade": "1",
                     "nome": "Empanado de soja",
+                    "descricao": "Bife de soja defumado empanado com farinha de rosca e tofu. Acompanha batata frita rústica",
                     "horario": "20:02",
                     "preco": "26.00"
                   },
                   {
                     "quantidade": "1",
                     "nome": "Costela vegana com BBQ",
+                    "descricao": "Lascas de tofu defumado com BBQ orgânico. Acompanha creme de pimenta biquinho",
                     "horario": "20:03",
                     "preco": "31.00"
                  },
                  {
                     "quantidade": "1",
                     "nome": "Suco de caju com hortelã",
+                    "descricao": "Caju com hortelã batidos com ou sem adição de açúcar",
                     "horario": "20:23",
                     "preco": "5.50"
                  },
                  {
                     "quantidade": "1",
                     "nome": "Suco de maracujá",
+                    "descricao": "Maracujá orgânico batido com nozes e manjericão",
                     "horario": "20:23",
                     "preco": "5.50"
                  }            
