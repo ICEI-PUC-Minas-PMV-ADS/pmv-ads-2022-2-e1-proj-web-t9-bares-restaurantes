@@ -2,21 +2,8 @@
 
 <span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
 
-CT-01 - Visualizar pedidos:
+Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
 
-- Passo 1: Fazer login no sistema com acesso de garçom;
-- Passo 2:Entrar na página do garçom e visualizar os status dos pedidos;
-- Passo 3:Verificar se os pedidos listados correspondem aos pedidos cadastrados no banco de dados para aquele dia.
-
-![Teste](/docs/img/teste-software.png)
-
-CT-02 - Visualizar menu do restaurante
-
-- Passo 1: Fazer login no sistema com acesso de cliente; 
-- Passo 2: Clicar na opção “cardápio” do menu lateral;
-- Passo 3: Verificar se os itens exibidos correspondem aos cadastrados no banco de dados.
-
-![teste2](/docs/img/teste2.png)
 ## Avaliação
 
 Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
