@@ -51,7 +51,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Hospedagem
 
-* https://bareserestaurantes.github.io 
+* https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes/
 
 # Armazenamento do Código-Fonte
 
