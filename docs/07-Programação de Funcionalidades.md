@@ -22,8 +22,10 @@ O resultado final da tela se encontra a seguir:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes/blob/e5f1f4a4da45067d15a7d0ab2b47af21546c41f4/docs/img/Teladogar%C3%A7om2.PNG)
 
-Vídeo da explicação da atividade está disponibilizado no youtube
+Vídeo da explicação da atividade está disponibilizado no youtube:
+
 Vídeo etapa 3: https://youtu.be/7M3ytGxlrdM
+
 Vídeo etapa 4: https://www.youtube.com/watch?v=wqqtpc7AE4w
 
 
