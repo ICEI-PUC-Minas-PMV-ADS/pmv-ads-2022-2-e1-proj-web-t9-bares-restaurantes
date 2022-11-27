@@ -40,14 +40,22 @@ function logar() {
         var cargo = Cadastros[i].cargo;
 
         if (useName.value == Cadastros[i].usuario && senha.value == Cadastros[i].senha) {
+
             switch (cargo) {
-                case "cliente":
+                case 'cliente':
                     window.location.href = "../cliente/index.html";
-                case "garcom":
+                    break;
+                case 'garcom':
                     window.location.href = "../garçom/garçom.html";
                     break;
-
+                case 'cozinheiro(a)':
+                    window.location.href = "../cozinha/Fluxocozinheiro.html";
+                    break;
+                case 'gerente':
+                    window.location.href = "..//index.html";
+                    break;
             }
+
         }
     }
 }
