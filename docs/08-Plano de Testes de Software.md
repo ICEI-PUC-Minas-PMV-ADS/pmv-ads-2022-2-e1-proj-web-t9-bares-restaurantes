@@ -22,6 +22,8 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 |                        | 3) Verificar se os pedidos listados correspondem aos pedidos cadastrados no banco de dados para aquele dia.|
 | Critérios de êxito     | Os pedidos listados na tela do garçom devem corresponder aos cadastrados no banco de dados (nº mesa, descrição, horário e status).
 
+
+
 |Casos de Teste |CT-02 - Visualizar menu do restaurante|
 |:--------------:        |---------------------------------------|
 |Requisitos associados   | RF-02 O site deve apresentar um menu com os pratos e bebidas disponíveis no dia.|
