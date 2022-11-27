@@ -11,15 +11,20 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 ## Elísia = Tela do Garçom
 Primeiramente, clonei o repositório do github. Aproveitei o template para manter o mesmo style na página do garçom.
 Criei uma página telagarçom.html, acrescentei as imagens e adaptei o menu lateral.
-Depois iniciei o código JS, que ainda precisa ser melhorado, que mostra os status dos pedidos em formato de tabela.
+Depois iniciei o código JS, que mostra os status dos pedidos em formato de tabela.
 Os pedidos são simulados por uma variável JSON.
-O código JS recebe o JSON e cria uma tabela dinamicamente. O resultado final da tela se encontra a seguir:
+O código JS recebe o JSON e cria uma tabela dinamicamente. 
+Adicionei 2 filtros, um que filtra por número da mesa e outro que filtra pelo status do pedido.
+Também adicionei um menu lateral para navegar para a página "HOME" e para fazer logout.
+
+O resultado final da tela se encontra a seguir:
 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes/blob/10cfeecaa3d0629028e5c3eb16abc9d7f818ce06/docs/img/Teladogar%C3%A7om.PNG)
 
-Vídeo da explicação da atividade está disponibilizado no youtube 
-https://youtu.be/7M3ytGxlrdM
+Vídeo da explicação da atividade está disponibilizado no youtube
+Vídeo etapa 3: https://youtu.be/7M3ytGxlrdM
+Vídeo etapa 4: https://www.youtube.com/watch?v=wqqtpc7AE4w
 
 
 ## Geraldo = Tela Cliente
