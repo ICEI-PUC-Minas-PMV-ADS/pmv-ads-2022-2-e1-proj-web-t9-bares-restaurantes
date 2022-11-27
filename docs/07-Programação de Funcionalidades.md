@@ -36,7 +36,8 @@ Foi feito o menu lateral, utilizando divs para a seleção posterior por meio de
 
 
 
-[Link de explicação](https://youtu.be/zIatWfAnyZQ).
+[Link de explicação 1 ](https://youtu.be/zIatWfAnyZQ).
+[Link de explicação 2 - JSON](https://www.youtube.com/watch?v=UBYaBenOtiQ)
 
 
 ## Geison Amrorim = Tela Login/Cadastro 
