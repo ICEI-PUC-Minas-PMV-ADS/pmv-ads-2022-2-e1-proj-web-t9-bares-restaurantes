@@ -33,6 +33,7 @@ nav {
 
 }
 
+
 main {
     background: url("restaurantes2.png") no-repeat center center;
     background-size: cover;
@@ -66,7 +67,7 @@ main {
 
 
 
-@media(max-width:999px) {
+@media(max-width:900px) {
   body{
     overflow-x: hidden;
   }
@@ -87,7 +88,7 @@ main {
 
     .listagem li {
         margin-left: 0;
-        opacity: 0;
+        opacity: 0; 
     }
     .menu{
         display: block;

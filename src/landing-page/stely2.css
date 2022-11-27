@@ -41,6 +41,7 @@ input {
   background-color: #f00;
   cursor: pointer;
 }
+
 label {
   display: block;
   width: 100%;
@@ -61,15 +62,15 @@ footer {
   color: #fff;
   border: 1px solid #000;
   background: #f00;
-  
-}
-footer a{
-color: #fff;
-text-decoration: none;
-cursor: pointer;
-} 
-footer a:hover{
- color:#f00;
- background:#fff;
+
 }
 
+footer a {
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+}
+footer a:hover{
+  color: #f00;
+  background: #fff;
+}

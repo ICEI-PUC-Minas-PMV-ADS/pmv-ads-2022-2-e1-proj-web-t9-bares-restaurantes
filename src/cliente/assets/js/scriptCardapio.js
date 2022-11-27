@@ -1,4 +1,4 @@
-fetch("/src/cliente/produtos.json")
+fetch("produtos.json")
 .then(function(response){
    return response.json();
 })
