@@ -1,23 +1,24 @@
 # Plano de Testes de Software
 
+
 Os requisitos para realização dos testes de software são:
-- Site publicado na Internet;
-- Navegador da Internet - Chrome, Firefox ou Edge;
-- Conectividade de Internet para acesso às plataformas.
+●	Site publicado na Internet;
+●	A página de login deve estar funcional;
+●	O banco de dados deve estar acessível e comunicando com o servidor.
+
 
 Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 
-|Casos de Teste (Exemplo)|CT-01 Apresentação do site aos usuários|
+
+|Casos de Teste |CT-01 - Visualizar pedidos|
 |:--------------:        |---------------------------------------|
-|Requisitos associados   | RF-0X|
-|                        | RF-0Xn ...|
-|Objetivo do Teste       | Verificar se o site está funcionando adequadamente|
-|Passos                  | 1) Acessar o navegador|
-|                        | 2) Informar a URL do site|
-|                        | 3) Entrar na página principal|
-| Critérios de êxito     | 1) Deve haver uma requisição AJAX no painel NETWORK das ferramentas do Desenvolvedor (recurso do Navegador). 
-|                        | 2) As notícias devem ser exibidas corretamente no site, sendo necessárias pelo menos 3 notícias sendo apresentadas. 
-|                        |3) As notícias devem trazer imagens visíveis associadas ao assunto da notícia
+|Requisitos associados   | RF-11 O sistema deve permitir a visualização dos status dos pedidos, apresentando a mesa, o nome do pedido, o horário e seu status.|
+|Objetivo do Teste       | Verificar se os pedidos feitos estão sendo exibidos corretamente|
+|Passos                  | 1) Fazer login no sistema com acesso de garçom;|
+|                        | 2) Entrar na página do garçom e visualizar os status dos pedidos;|
+|                        | 3) Verificar se os pedidos listados correspondem aos pedidos cadastrados no banco de dados para aquele dia.|
+| Critérios de êxito     | Os pedidos listados na tela do garçom devem corresponder aos cadastrados no banco de dados (nº mesa, descrição, horário e status).
+
 
 ## Ferramentas de Testes
 ### Checagem de Links "quebrados" global e localmente
