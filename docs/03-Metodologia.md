@@ -33,7 +33,7 @@ etiquetas:
 |Ambiente   |Plataforma   | Link de acesso  |  
 |-----------|-------------|-----------------|
 | Repositório de código-fonte|Github|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes|
-| Documentos do projeto  |Google Docs|https://docs.google.com/document/d/1PRYTSqOD7-Au4QUQ3mbUBDotM3WlIx1ChtSrPlewQeM|
+| Documentos do projeto  |Google Docs|https://docs.google.com/document/d/1PRYTSqOD7-Au4QUQ3mbUBDotM3WlIx1ChtSrP|
 | Projeto de interface e wireframes|MarvelApp|https://marvelapp.com/prototype/71eh8dc|
 |Gerenciamento do Projeto|Trello e Teams|https://trello.com/invite/b/DaT7e2zl/9369b7d3fe81adf81157bd6659f45341/projeto-bares-e-restaurantes|
 
