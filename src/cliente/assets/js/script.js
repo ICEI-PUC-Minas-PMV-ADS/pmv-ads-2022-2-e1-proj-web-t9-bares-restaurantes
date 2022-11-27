@@ -18,3 +18,4 @@ fetch("produtos.json")
  
    placeholder.innerHTML = saida;
 });
+
