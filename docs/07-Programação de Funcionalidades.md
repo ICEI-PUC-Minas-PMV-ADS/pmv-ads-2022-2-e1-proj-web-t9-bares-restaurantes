@@ -33,6 +33,9 @@ Vídeo etapa 4: https://www.youtube.com/watch?v=wqqtpc7AE4w
 Foi feito o menu lateral, utilizando divs para a seleção posterior por meio de classes no CSS. Depois feito em tabelas os conteúdos da tela "comanda". Ainda não fiz a parte de JSON, pois ainda não cheguei nessa parte, mas espero fazer nessa próxima semana. Tive dificuldades na hora de fazer o script para o aparecimento e desaparecimento do menu hambúrguer, uma vez que ele deixa um pequeno bug na tela (deixando um espaço vazio). Foi tranquilo fazer o HTML e o CSS da tela!
 
 Fiz um arquivo .json para armazenar os dados que seriam usados para a criação de uma tabela para os pedidos do cliente. Junto a isso fiz um algoritmo javascript para "parsear" os dados json e inserí-los na página html.
+
+>>infelizmente minha implementação json só funciona com a extensão "live server" do VSCode. Pretendo arrumar isso, por enquanto ainda não sei o que está acontecendo.
+
 ![image](https://user-images.githubusercontent.com/70844369/204166694-7f0994c9-4a70-4806-a6da-58f473975912.png)
 
 
