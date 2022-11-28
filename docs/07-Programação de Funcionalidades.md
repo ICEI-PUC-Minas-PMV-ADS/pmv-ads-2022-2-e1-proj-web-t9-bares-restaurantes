@@ -38,9 +38,9 @@ Fiz um arquivo .json para armazenar os dados que seriam usados para a criação 
 
 
 
-[Link de explicação 1 ](https://youtu.be/zIatWfAnyZQ)
+[Link de explicação 1 - Etapa 3](https://youtu.be/zIatWfAnyZQ)
 
-[Link de explicação 2 - JSON](https://www.youtube.com/watch?v=UBYaBenOtiQ)
+[Link de explicação 2 - Etapa 4](https://www.youtube.com/watch?v=UBYaBenOtiQ)
 
 
 ## Geison Amrorim = Tela Login/Cadastro 
