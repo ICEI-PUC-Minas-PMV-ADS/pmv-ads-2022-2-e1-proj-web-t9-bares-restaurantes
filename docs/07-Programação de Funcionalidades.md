@@ -82,3 +82,7 @@ estilizei os botoes acresentei um efeito no login e um efeito no cadastra ate es
 > - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
 > - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
 > - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+
+ ## Samuel Oliveira = Landing Page
+ #Criei uma tela que conta com todos os elementos voltados à conversão, do visitante ao Lead ou da oportunidade ao cliente. 
+ Etapa 4: https://youtu.be/XNBBWkyF1go 
