@@ -85,4 +85,9 @@ estilizei os botoes acresentei um efeito no login e um efeito no cadastra ate es
 
  ## Samuel Oliveira = Landing Page
  #Criei uma tela que conta com todos os elementos voltados à conversão, do visitante ao Lead ou da oportunidade ao cliente. 
- Etapa 4: https://youtu.be/XNBBWkyF1go 
+ 
+ * Etapa 4: https://youtu.be/XNBBWkyF1go 
+ * Etapa 4 : Manipulação JSON - https://youtu.be/hT6HMcXavMU
+ 
+ 
+ 
