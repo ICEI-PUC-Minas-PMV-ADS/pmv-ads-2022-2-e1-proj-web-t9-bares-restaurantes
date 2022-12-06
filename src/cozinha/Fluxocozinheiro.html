@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fluxo Cozinheiro - Bares e Restaurantes</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.2.0/css/all.css">
+    <link rel="stylesheet" href="Fluxocozinheiro.css">
+    <script src="script.js"></script>
+</head>
+<body >
+   <div id="tela">
+
+   </div>
+    <div class="wrapper">
+        <div class="section">
+            <div class="top_navbar">
+                <div class="hamburger">
+                    <a href="#">
+                        <i class="fas fa-bars"></i>
+                    </a>
+                </div>
+            </div>
+             
+        </div>
+        <div class="sidebar">
+            <div class="profile">
+                <img src="iconeloguin.png" alt="profile_picture">
+                <h3>Fluxo Cozinha</h3>
+          
+            </div>
+            <ul>
+                <li>
+                    <a href="#" class="active">
+                        <span class="icon"><i class="fas fa-book"></i></span>
+                        <span class="item">Status Pedido</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <span class="icon"><i class="fas fa-desktop"></i></span>
+                        <span class="item">Aceitar Pedido</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <span class="icon"><i class="fas fa-utensils"></i></span>
+                        <span class="item">Iniciar Pedido</span>
+                    </a>
+                </li>
+               
+                <li>
+                    <a href="#">
+                        <span class="icon"><i class="fas fa-arrow-down"></i></span>
+                        <span class="item">Sign out</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        
+    </div>
+    
+<div class="content">
+    <table class="Table">
+        <thead>
+            <tr>
+                <! Cabeçalho da minha tabela >
+                <th>Nome</th>
+                <th>Horárioo</th>
+                <th>Tempo de Preparo</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+          <!  Aqui abaixo queria jogar os dados Json em formato tabela >
+        <tbody id="conteudo" onload="ExibirPedidos()"> <! duvida se meu onload fica aqui >
+            
+        </tbody>
+    </table>
+</div>
+
+</body>
+</html>
