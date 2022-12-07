@@ -66,4 +66,4 @@ Para a organização da equipe e a distribuição de tarefas foi escolhido o Tre
 ![image](https://user-images.githubusercontent.com/70844369/194785194-4f2cf98b-6f98-43f6-bf9f-0ee02858904a.png)
 Figura 1 - Trello usado pelo grupo disponível em: https://trello.com/b/DaT7e2zl/projeto-bares-e-restaurantes 
 ***
-> [<<< 02-Especificação do Projeto](./03-Metodologia.md) ||| [04-Projeto de Interface >>>](./04-Projeto%20de%20Interface.md)
+> [<<< 02-Especificação do Projeto](./02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md) ||| [04-Projeto de Interface >>>](./04-Projeto%20de%20Interface.md)
