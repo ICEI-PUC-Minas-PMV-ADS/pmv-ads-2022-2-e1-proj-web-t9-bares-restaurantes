@@ -1,4 +1,4 @@
-# Template padrão do site
+# 6 - Template padrão do site
 O padrão de layout a ser utilizado pelo site é apresentado a seguir:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes/blob/44407b570b39ee87b80362f5fea92b70eee372b1/docs/img/Template_site.PNG)
