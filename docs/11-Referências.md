@@ -7,4 +7,4 @@ MEIRELLES, Fernando de Souza. 33ª Pesquisa Anual do FGVcia: uso da TI nas Empre
 SEBRAE. Bares e restaurantes: um setor em expansão. SEBRAE (site), 2022. Disponível em:https://www.sebrae.com.br/sites/PortalSebrae/artigos/bares-e-restaurantes-um-setor-em-expansao,1038d53342603410VgnVCM100000b272010aRCRD. Acesso: 12/09/2022. 
 
 ***
->[<<< Apresentação do Projeto](./10-Apresenta%C3%A7%C3%A3o%20do%20Projeto.md)
+>[<<< 10-Apresentação do Projeto](./10-Apresenta%C3%A7%C3%A3o%20do%20Projeto.md)
