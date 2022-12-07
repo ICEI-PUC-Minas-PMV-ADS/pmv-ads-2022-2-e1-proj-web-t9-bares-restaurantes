@@ -32,8 +32,9 @@ Portanto, acredita-se que  um sistema de cardápio digital e autoatendimento pro
 
 O público alvo deste projeto são as empresas dos setores gastronômicos, em especial o de bares e restaurantes, que queiram inovar seu atendimento através do cardápio digital ou autoatendimento. 
 
-
 ---
 [1] - 242 Milhões de smartfones para aproximadamente 214 milhões de habitantes.
 
 [2] - Disponível em: https://www.sebrae.com.br/sites/PortalSebrae/artigos/bares-e-restaurantes-um-setor-em-expansao,1038d53342603410VgnVCM100000b272010aRCRD Acesso: 12/09/2022. 
+***
+>[02-Especificação do Projeto](02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md)

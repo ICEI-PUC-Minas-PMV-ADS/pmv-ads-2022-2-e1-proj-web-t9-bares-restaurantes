@@ -11,3 +11,6 @@ O padrão de layout a ser utilizado pelo site é apresentado a seguir:
 > - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
 > - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
 > - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+
+***
+> [<<< 05-Arquitetura da Solução](./05-Arquitetura%20da%20Solu%C3%A7%C3%A3o.md) ||| [07-Programação de Funcionalidades >>> ](./07-Programa%C3%A7%C3%A3o%20de%20Funcionalidades.md)

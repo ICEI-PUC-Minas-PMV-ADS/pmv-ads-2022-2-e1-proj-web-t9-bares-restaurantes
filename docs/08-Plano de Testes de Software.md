@@ -52,3 +52,5 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 > - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
 > - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+***
+> [<<< 07-Programação de Funcionalidades](./07-Programa%C3%A7%C3%A3o%20de%20Funcionalidades.md) ||| [09-Registro de Testes de Software >>>](./09-Registro%20de%20Testes%20de%20Software.md)

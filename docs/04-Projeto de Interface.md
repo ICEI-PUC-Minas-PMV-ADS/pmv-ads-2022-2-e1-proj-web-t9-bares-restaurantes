@@ -60,5 +60,5 @@ Conforme o fluxo de telas do projeto, apresentado no item anterior, as telas do 
 # 4.2.9 - Comanda (cliente)
 ![image](https://user-images.githubusercontent.com/70844369/194786112-e1fb598c-3087-4dca-8b7d-efe626318d40.png)
 
-
-
+***
+> [<<< 03-Metodologia](./03-Metodologia.md) ||| [05-Arquitetura da Solução >>>](./05-Arquitetura%20da%20Solu%C3%A7%C3%A3o.md)

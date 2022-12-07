@@ -35,3 +35,5 @@ O banco de dados utilizado será o SQL Server.
 ## 5.2 - Hospedagem
 
 Será utilizado os serviços de nuvem da AWS para a hospedagem do sistema. Serão criados dois serviços Elastic Beanstalk para hospedar a aplicação web e a API Rest. O serviço RDS (Relational Database Service) será criado para hospedar o banco de dados SQL Server.
+***
+>[<<< 02-Projeto de Interface](./04-Projeto%20de%20Interface.md) ||| [06-Template padrão do Site >>>](./06-Template%20padr%C3%A3o%20do%20Site.md)

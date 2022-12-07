@@ -27,3 +27,6 @@ O grupo deve distribuir de forma coerente o conteúdo a ser apresentado, dentro 
 > - [A regra 10-20-30 para apresentações de sucesso](https://revistapegn.globo.com/Noticias/noticia/2014/07/regra-10-20-30-para-apresentacoes-de-sucesso.html)
 > - [Top Tips for Effective Presentations](https://www.skillsyouneed.com/present/presentation-tips.html)
 > - [How to make a great presentation](https://www.ted.com/playlists/574/how_to_make_a_great_presentation)
+
+***
+> [<<< 09-Registro de Testes de Software](./09-Registro%20de%20Testes%20de%20Software.md) ||| [11-Referências >>>](./11-Refer%C3%AAncias.md)

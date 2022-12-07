@@ -21,3 +21,5 @@ CT-02 - Visualizar menu do restaurante
 
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+***
+> [<<< 08-Plano de Testes de Software](./08-Plano%20de%20Testes%20de%20Software.md) ||| [10-Apresentação do Projeto >>>](./10-Apresenta%C3%A7%C3%A3o%20do%20Projeto.md)
