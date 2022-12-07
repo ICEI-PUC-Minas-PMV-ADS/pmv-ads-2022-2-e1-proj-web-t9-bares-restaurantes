@@ -22,7 +22,6 @@ O objetivo geral deste projeto é desenvolver um sistema de cardápio digital e 
 * Geison Amorim Marçal
 * Geraldo Homero do Couto Neto
 * Pedro Victor de Souza Fidelis
-* Mariana Paez Matheos Monteiro Chaves
 * Samuel Ferreira de Oliveira
 
 ## Orientador
