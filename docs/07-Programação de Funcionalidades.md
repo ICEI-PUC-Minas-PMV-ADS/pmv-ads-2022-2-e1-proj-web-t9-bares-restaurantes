@@ -88,5 +88,5 @@ estilizei os botoes acresentei um efeito no login e um efeito no cadastra ate es
 > - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
 > - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
 ***
- > [<<< 06-Template padrão do site](./07-Programa%C3%A7%C3%A3o%20de%20Funcionalidades.md) ||| [08-Plano de Testes de Software >>>](./08-Plano%20de%20Testes%20de%20Software.md)
+ > [<<< 06-Template padrão do site](./06-Template%20padr%C3%A3o%20do%20Site.md) ||| [08-Plano de Testes de Software >>>](./08-Plano%20de%20Testes%20de%20Software.md)
  
