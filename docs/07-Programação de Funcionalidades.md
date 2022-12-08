@@ -78,7 +78,7 @@ estilizei os botoes acresentei um efeito no login e um efeito no cadastra ate es
  
  * Etapa 4: https://youtu.be/XNBBWkyF1go 
  * Etapa 4 : Manipulação JSON - https://youtu.be/QBGqE3Qna5E
- * Etapa 5 : Finalização tela, manipulaçao JSON = https://youtu.be/oIj221qL6VI 
+ * Etapa 5 : Finalização Projeto = https://youtu.be/oIj221qL6VI 
 
   
 > **Links Úteis**:
