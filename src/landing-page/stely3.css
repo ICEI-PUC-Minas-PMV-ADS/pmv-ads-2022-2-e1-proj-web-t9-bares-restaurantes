@@ -1,0 +1,112 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #f0f1f1;
+}
+
+header {
+    background-color: #f00;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+header img {
+    width: 150px;
+}
+
+main {
+    padding: 30px 50px;
+}
+
+.card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 15px;
+}
+
+.linha {
+    display: grid;
+    margin-bottom: 10px;
+}
+
+input {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    outline: 0;
+}
+
+button {
+    border: 0px;
+    padding: 10px;
+    outline: 0;
+    background-color: #f00;
+    color: #fff;
+    margin-top: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: rgba(255, 0, 0, 0.767);
+}
+
+.tabela {
+    margin-top: 15px;
+    border: 1;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+    width: 100%;
+    background-color: #fff;
+   
+}
+
+table th {
+    background-color: rgba(221, 221, 221, 0.774);
+    text-align: left;
+    padding: 1px 5px;
+}
+table td {
+   padding: 1px 5px;
+   text-align: left;
+    
+}
+table td img {
+    height: 20px;
+    margin: 5px;
+}
+.center {
+    text-align: center;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+footer a {
+    text-decoration: none;
+    background-color: #f00;
+    color: #fff;
+    padding: 5px;
+    border: 1px solid #f00;
+    border-radius: 3px;
+    transition: 0.3s;
+}
+footer a:hover {
+    background-color: #fff;
+    color: #f00;
+}

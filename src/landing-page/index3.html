@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bares e Restaurantes</title>
+  <link rel="stylesheet" href="stely3.css">
+</head>
+
+<body>
+  <header>
+    <img src="logo.cantinho da eleie.png" alt="">
+    <h1>Bares e Restaurantes</h1>
+  </header>
+  <main>
+    <div class="titulo">
+      <h2>Pedidos</h2>
+      <span>Lista de pedidos do cliente</span>
+    </div>
+    <div class="card">
+      <div class="linha">
+        <label>Pedido</label>
+        <input type="text" name="produto" id="produto" placeholder="Nome do pedido">
+      </div>
+      <div class="linha">
+        <label>Valor</label>
+        <input type="number" name="valor" id="valor" placeholder="Valor do pedido">
+      </div>
+      <button onclick="pedidos.salvar()" id="btn_1">Salvar</button>
+      <button onclick="pedidos.cancelar()">Cancelar</button>
+      
+    </div>
+    <div class="tabela">
+      <table border="1">
+        <thead>
+          <th class="center">ID</th>
+          <th>Pedido</th>
+          <th>Valor</th>
+          <th class="center">Açôes</th>
+        </thead>
+        <tbody id="acessar">
+
+        </tbody>
+      </table>
+    </div>
+  </main>
+  <footer>
+    <p>
+      <a href="index.html">&copy; Bares e Restaurantes</a>
+    </p>
+  </footer>
+
+  <script src="app1.js"></script>
+
+</body>
+
+</html>
