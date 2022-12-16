@@ -7,9 +7,8 @@
     <title>Fluxo Cozinheiro - Bares e Restaurantes</title>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.2.0/css/all.css">
     <link rel="stylesheet" href="Fluxocozinheiro.css">
-    <scrip src="script.js"></scrip>
 </head>
-<body onload =PedidosCozinha()>
+<body >
    <div id="tela">
 
    </div>
@@ -33,7 +32,7 @@
             <ul>
                 <li>
                     <a href="../../index.html">
-                        <span class="icon"><i class="fas fa-arrow-down"></i></span>
+                        <span class="icon"><i class="fas fa-book"></i></span>
                         <span class="item">Home</span>
                     </a>
                 </li>
@@ -66,53 +65,20 @@
         </div>
         
     </div>
+    <div>
+
+    </div>
     
-<div class="content">
-    <table class="rTable">
-        <thead>
-            <tr>
-                <th>Nome</th>
-                <th>Horárioo</th>
-                <th>Tempo de Preparo</th>
-                <th>Status</th>
-            </tr>
-        </thead>
+    <div id="tabela-container">
+    </div>
+    <script src="./script.js"></script>
+<script>
+    var hamburger = document.querySelector(".hamburger");
+    hamburger.addEventListener("click", function () {
+      document.querySelector("body").classList.toggle("active");
+    });
+</script>
 
-        <tbody>
-            <tr>
-                <td>Filé Parmegiana</td>
-                <td>20:00</td>
-                <td>30 Minutos</td>
-                <td>Em Andamento</td>
-            </tr>
-
-            <tr>
-                <td>Costela De Porco</td>
-                <td>20:00</td>
-                <td>40 Minutos</td>
-                <td>Finalizado</td>
-            </tr>
-            <tr>
-                <td>Moscow Mule</td>
-                <td>20:15</td>
-                <td>2 Minutos</td>
-                <td>Enviado ao Cliente</td>
-            </tr>
-            <tr>
-                <td>Soda Italiana</td>
-                <td>21:00</td>
-                <td>3 Minutos</td>
-                <td>Recebido</td>
-            </tr>
-            <tr>
-                <td>Vinho do Porto</td>
-                <td>21:30</td>
-                <td>2 Minutos</td>
-                <td>Enviado ao Cliente</td>
-            </tr>
-        </tbody>
-    </table>
 </div>
-<scrip src="script.js"></scrip>
 </body>
 </html>
