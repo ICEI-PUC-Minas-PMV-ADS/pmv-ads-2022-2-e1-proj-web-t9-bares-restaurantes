@@ -4,7 +4,7 @@
 
 `PROJETO FRONT-END`
 
-`2º SEMESTRE (2022)`
+`2º SEMESTRE (2023.1)`
 
 O objetivo geral deste projeto é desenvolver um sistema de cardápio digital e autoatendimento que facilite o dia a dia das empresas do setor de bares e restaurantes, e proporcione um melhor atendimento aos clientes.
 
