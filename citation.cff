@@ -1,0 +1,24 @@
+message: Please cite this software using these metadata.
+title: Bares e Restaurantes
+authors:
+  - family-names: Resende Valim Ferrari
+    given-names:  Elísia
+  - family-names: Amorim Marçal
+    given-names: Geison
+  - family-names: Homero do Couto Neto
+    given-names: Geraldo
+  - family-names: Victor de Souza Fidelis
+    given-names: Pedro
+  - family-names: Ferreira de Oliveira
+    given-names: Samuel
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Ricardo dos Santos Machado
+    given-names: Will
+keywords:
+  - Gestão
+  - Restaurantes
+  - Bar
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes
+version: 1.0.0
+date-released: 2022-04-28
