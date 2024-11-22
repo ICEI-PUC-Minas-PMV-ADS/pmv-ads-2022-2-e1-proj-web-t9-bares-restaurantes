@@ -1,3 +1,4 @@
+cff-version: 1.0.1
 message: Please cite this software using these metadata.
 title: Bares e Restaurantes
 authors:
@@ -20,5 +21,6 @@ keywords:
   - Restaurantes
   - Bar
 repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-bares-restaurantes
+license: CC-BY-4.0
 version: 1.0.0
 date-released: 2022-04-28
